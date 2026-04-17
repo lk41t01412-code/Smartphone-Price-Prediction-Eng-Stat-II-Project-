@@ -1,0 +1,72 @@
+Brand,Model,RAM (GB),Storage (GB),Price (USD),Main Camera (MP),Front Camera (MP),Ultrawide (MP),Telephoto (MP),Is Flip,Is Fold,Main Sensor Size,Weight (g),Screen Size (inch),Battery (mAh),Processor Name,AnTuTu Score,Processor Brand,Launch Year
+Samsung,Galaxy S26,12,256,799,50,12,50,10,No,No,"1/1.3""",168,6.3,4300,Snapdragon 8 Elite Gen 5,3900000,Qualcomm,2026
+Samsung,Galaxy S26,12,512,859,50,12,50,10,No,No,"1/1.3""",168,6.3,4300,Snapdragon 8 Elite Gen 5,3900000,Qualcomm,2026
+Samsung,Galaxy S26+,12,256,999,50,12,50,10,No,No,"1/1.3""",190,6.7,4900,Snapdragon 8 Elite Gen 5,3900000,Qualcomm,2026
+Samsung,Galaxy S26+,12,512,1059,50,12,50,10,No,No,"1/1.3""",190,6.7,4900,Snapdragon 8 Elite Gen 5,3900000,Qualcomm,2026
+Samsung,Galaxy S26 Ultra,12,256,1299,200,12,50,50,No,No,"1/1.14""",214,6.9,5000,Snapdragon 8 Elite Gen 5 for Galaxy,4027702,Qualcomm,2026
+Samsung,Galaxy S26 Ultra,12,512,1419,200,12,50,50,No,No,"1/1.14""",214,6.9,5000,Snapdragon 8 Elite Gen 5 for Galaxy,4027702,Qualcomm,2026
+Samsung,Galaxy S26 Ultra,16,1024,1659,200,12,50,50,No,No,"1/1.14""",214,6.9,5000,Snapdragon 8 Elite Gen 5 for Galaxy,4027702,Qualcomm,2026
+Samsung,Galaxy A57,8,128,499,50,12,12,,No,No,"1/1.56""",179,6.7,5000,Exynos 1680,1138000,Samsung,2026
+Samsung,Galaxy A57,8,256,549,50,12,12,,No,No,"1/1.56""",179,6.7,5000,Exynos 1680,1138000,Samsung,2026
+Samsung,Galaxy A57,12,256,599,50,12,12,,No,No,"1/1.56""",179,6.7,5000,Exynos 1680,1138000,Samsung,2026
+Samsung,Galaxy A37,6,128,369,50,12,12,,No,No,"1/1.97""",196,6.7,5000,Exynos 1480,730000,Samsung,2026
+Samsung,Galaxy A37,8,128,399,50,12,12,,No,No,"1/1.97""",196,6.7,5000,Exynos 1480,730000,Samsung,2026
+Samsung,Galaxy A37,8,256,449,50,12,12,,No,No,"1/1.97""",196,6.7,5000,Exynos 1480,730000,Samsung,2026
+Xiaomi,Xiaomi 17,12,256,799,50,32,50,50,No,No,"1/1.56""",193,6.7,6330,Snapdragon 8 Elite Gen 5,4100000,Qualcomm,2026
+Xiaomi,Xiaomi 17,12,512,879,50,32,50,50,No,No,"1/1.56""",193,6.7,6330,Snapdragon 8 Elite Gen 5,4100000,Qualcomm,2026
+Xiaomi,Xiaomi 17,16,512,949,50,32,50,50,No,No,"1/1.56""",193,6.7,6330,Snapdragon 8 Elite Gen 5,4100000,Qualcomm,2026
+Xiaomi,Xiaomi 17 Ultra,16,512,1399,50,50,50,200,No,No,"1""",218,6.9,6800,Snapdragon 8 Elite Gen 5,4200000,Qualcomm,2026
+Xiaomi,Xiaomi 17 Ultra,16,1024,1599,50,50,50,200,No,No,"1""",218,6.9,6800,Snapdragon 8 Elite Gen 5,4200000,Qualcomm,2026
+Google,Pixel 10a,8,128,499,48,13,13,,No,No,"1/2.0""",183,6.3,5100,Google Tensor G4,850000,Google,2026
+Google,Pixel 10a,8,256,559,48,13,13,,No,No,"1/2.0""",183,6.3,5100,Google Tensor G4,850000,Google,2026
+OnePlus,OnePlus 15,12,256,899,50,32,50,50,No,No,"1/1.56""",210,6.78,7300,Snapdragon 8 Elite Gen 5,4250000,Qualcomm,2026
+OnePlus,OnePlus 15,16,512,999,50,32,50,50,No,No,"1/1.56""",210,6.78,7300,Snapdragon 8 Elite Gen 5,4250000,Qualcomm,2026
+OnePlus,OnePlus 15,16,1024,1099,50,32,50,50,No,No,"1/1.56""",210,6.78,7300,Snapdragon 8 Elite Gen 5,4250000,Qualcomm,2026
+OnePlus,OnePlus 15T,12,256,799,50,32,50,50,No,No,"1/1.56""",194,6.83,7500,Snapdragon 8 Elite Gen 5,4250000,Qualcomm,2026
+OnePlus,OnePlus 15T,16,512,899,50,32,50,50,No,No,"1/1.56""",194,6.83,7500,Snapdragon 8 Elite Gen 5,4250000,Qualcomm,2026
+OnePlus,OnePlus 15R,12,256,549,50,16,8,50,No,No,"1/1.56""",207,6.83,7400,Snapdragon 8 Gen 5,3200000,Qualcomm,2026
+OnePlus,OnePlus 15R,12,512,599,50,16,8,50,No,No,"1/1.56""",207,6.83,7400,Snapdragon 8 Gen 5,3200000,Qualcomm,2026
+OPPO,Find X9,12,256,899,50,32,50,50,No,No,"1/1.56""",215,6.78,7025,Dimensity 9500,3800000,MediaTek,2026
+OPPO,Find X9,16,512,999,50,32,50,50,No,No,"1/1.56""",215,6.78,7025,Dimensity 9500,3800000,MediaTek,2026
+OPPO,Find X9,16,1024,1099,50,32,50,50,No,No,"1/1.56""",215,6.78,7025,Dimensity 9500,3800000,MediaTek,2026
+OPPO,Find X9 Pro,16,512,1199,50,32,50,50,No,No,"1/1.56""",225,6.82,7500,Dimensity 9500,3850000,MediaTek,2026
+OPPO,Find X9 Pro,16,1024,1299,50,32,50,50,No,No,"1/1.56""",225,6.82,7500,Dimensity 9500,3850000,MediaTek,2026
+Vivo,X300,12,256,749,200,50,50,50,No,No,"1/1.4""",190,6.31,6040,Dimensity 9500,3647000,MediaTek,2026
+Vivo,X300,16,512,849,200,50,50,50,No,No,"1/1.4""",190,6.31,6040,Dimensity 9500,3647000,MediaTek,2026
+Vivo,X300 Pro,12,256,999,50,50,50,200,No,No,"1/1.28""",226,6.78,6510,Dimensity 9500,4012000,MediaTek,2026
+Vivo,X300 Pro,16,512,1099,50,50,50,200,No,No,"1/1.28""",226,6.78,6510,Dimensity 9500,4012000,MediaTek,2026
+Vivo,X300 Pro,16,1024,1199,50,50,50,200,No,No,"1/1.28""",226,6.78,6510,Dimensity 9500,4012000,MediaTek,2026
+Vivo,X200T,12,256,659,50,32,50,50,No,No,"1/1.56""",203,6.78,6200,Dimensity 9400+,2900000,MediaTek,2026
+Vivo,X200T,16,512,729,50,32,50,50,No,No,"1/1.56""",205,6.78,6200,Dimensity 9400+,2900000,MediaTek,2026
+Vivo,V70,8,256,399,50,50,50,50,No,No,"1/1.56""",187,6.59,6500,Snapdragon 7 Gen 4,1100000,Qualcomm,2026
+Vivo,V70,12,256,449,50,50,50,50,No,No,"1/1.56""",187,6.59,6500,Snapdragon 7 Gen 4,1100000,Qualcomm,2026
+Vivo,V70,12,512,499,50,50,50,50,No,No,"1/1.56""",194,6.59,6500,Snapdragon 7 Gen 4,1100000,Qualcomm,2026
+Vivo,V70 Elite,8,256,479,50,50,50,50,No,No,"1/1.56""",187,6.59,6500,Snapdragon 8s Gen 3,1650000,Qualcomm,2026
+Vivo,V70 Elite,12,256,529,50,50,50,50,No,No,"1/1.56""",194,6.59,6500,Snapdragon 8s Gen 3,1650000,Qualcomm,2026
+Vivo,V70 FE,8,128,299,50,32,8,,No,No,"1/1.97""",200,6.83,7000,Dimensity 7360 Turbo,950000,MediaTek,2026
+Vivo,V70 FE,12,256,349,50,32,8,,No,No,"1/1.97""",200,6.83,7000,Dimensity 7360 Turbo,950000,MediaTek,2026
+Vivo,V70 FE,12,512,399,50,32,8,,No,No,"1/1.97""",200,6.83,7000,Dimensity 7360 Turbo,950000,MediaTek,2026
+iQOO,iQOO 15,12,256,649,50,16,50,50,No,No,"1/1.56""",205,6.85,7000,Snapdragon 8 Elite Gen 5,4100000,Qualcomm,2026
+iQOO,iQOO 15,16,512,749,50,16,50,50,No,No,"1/1.56""",205,6.85,7000,Snapdragon 8 Elite Gen 5,4100000,Qualcomm,2026
+iQOO,iQOO 15,16,1024,849,50,16,50,50,No,No,"1/1.56""",205,6.85,7000,Snapdragon 8 Elite Gen 5,4100000,Qualcomm,2026
+iQOO,iQOO 15R,12,256,499,50,16,8,50,No,No,"1/1.56""",207,6.83,7400,Snapdragon 8 Gen 5,3200000,Qualcomm,2026
+iQOO,iQOO 15R,12,512,549,50,16,8,50,No,No,"1/1.56""",207,6.83,7400,Snapdragon 8 Gen 5,3200000,Qualcomm,2026
+Realme,GT 8 Pro,12,256,649,50,16,50,50,No,No,"1/1.56""",208,6.78,7000,Snapdragon 8 Elite Gen 5,4050000,Qualcomm,2026
+Realme,GT 8 Pro,16,512,749,50,16,50,50,No,No,"1/1.56""",208,6.78,7000,Snapdragon 8 Elite Gen 5,4050000,Qualcomm,2026
+Realme,GT 8 Pro,16,1024,849,50,16,50,50,No,No,"1/1.56""",208,6.78,7000,Snapdragon 8 Elite Gen 5,4050000,Qualcomm,2026
+Realme,16 Pro+,12,256,369,50,16,8,200,No,No,"1/1.95""",195,6.77,7000,Snapdragon 7 Gen 4,1600000,Qualcomm,2026
+Realme,16 Pro+,12,512,419,50,16,8,200,No,No,"1/1.95""",195,6.77,7000,Snapdragon 7 Gen 4,1600000,Qualcomm,2026
+Sony,Xperia 1 VII,12,256,1299,48,12,12,48,No,No,"1/1.35""",187,6.5,5000,Snapdragon 8 Elite Gen 5,3900000,Qualcomm,2026
+Sony,Xperia 1 VII,12,512,1399,48,12,12,48,No,No,"1/1.35""",187,6.5,5000,Snapdragon 8 Elite Gen 5,3900000,Qualcomm,2026
+Honor,Magic8 Pro,12,512,971,50,50,50,200,No,No,"1/1.4""",223,6.71,6270,Snapdragon 8 Elite Gen 5,4027702,Qualcomm,2026
+Honor,Magic8 Pro,16,512,1099,50,50,50,200,No,No,"1/1.4""",223,6.71,6270,Snapdragon 8 Elite Gen 5,4027702,Qualcomm,2026
+Honor,Magic8 Pro,16,1024,1249,50,50,50,200,No,No,"1/1.4""",223,6.71,6270,Snapdragon 8 Elite Gen 5,4027702,Qualcomm,2026
+Honor,Magic8 Pro Air,12,512,1046,50,50,50,50,No,No,"1/1.56""",155,6.31,5500,Dimensity 9500,4028000,MediaTek,2026
+Honor,Magic8 Pro Air,16,512,1149,50,50,50,50,No,No,"1/1.56""",155,6.31,5500,Dimensity 9500,4028000,MediaTek,2026
+Honor,Magic8 Pro Air,16,1024,1299,50,50,50,50,No,No,"1/1.56""",155,6.31,5500,Dimensity 9500,4028000,MediaTek,2026
+Huawei,Pura 80,12,256,799,50,13,13,50,No,No,"1""",207,6.69,4900,Kirin 9020,1250000,HiSilicon,2026
+Huawei,Pura 80,12,512,899,50,13,13,50,No,No,"1""",207,6.69,4900,Kirin 9020,1250000,HiSilicon,2026
+Huawei,Pura 80 Pro,12,512,1099,50,13,50,50,No,No,"1/1.28""",219,6.8,5170,Kirin 9020,1250000,HiSilicon,2026
+Huawei,Pura 80 Pro,12,1024,1249,50,13,50,50,No,No,"1/1.28""",219,6.8,5170,Kirin 9020,1250000,HiSilicon,2026
+Huawei,Pura 80 Ultra,16,512,1399,50,13,50,200,No,No,"1""",234,6.8,5700,Kirin 9020,1250000,HiSilicon,2026
+Huawei,Pura 80 Ultra,16,1024,1599,50,13,50,200,No,No,"1""",234,6.8,5700,Kirin 9020,1250000,HiSilicon,2026

@@ -1,0 +1,745 @@
+Brand,Model,RAM (GB),Storage (GB),Price (USD),Main Camera (MP),Front Camera (MP),Ultrawide (MP),Telephoto (MP),Is Flip,Is Fold,Main Sensor Size,Weight (g),Screen Size (inch),Battery (mAh),Processor Name,AnTuTu Score,Processor Brand,Launch Year
+Apple,iPhone 12,4,64,799,12,12,12,,No,No,"1/2.55""",164,6.1,2815,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12,4,128,849,12,12,12,,No,No,"1/2.55""",164,6.1,2815,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12,4,256,949,12,12,12,,No,No,"1/2.55""",164,6.1,2815,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Mini,4,64,699,12,12,12,,No,No,"1/2.55""",133,5.4,2227,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Mini,4,128,749,12,12,12,,No,No,"1/2.55""",133,5.4,2227,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Mini,4,256,849,12,12,12,,No,No,"1/2.55""",133,5.4,2227,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Pro,6,128,999,12,12,12,12,No,No,"1/1.9""",187,6.1,2815,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Pro,6,256,1099,12,12,12,12,No,No,"1/1.9""",187,6.1,2815,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Pro,6,512,1299,12,12,12,12,No,No,"1/1.9""",187,6.1,2815,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Pro Max,6,128,1099,12,12,12,12,No,No,"1/1.76""",226,6.7,3687,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Pro Max,6,256,1199,12,12,12,12,No,No,"1/1.76""",226,6.7,3687,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 12 Pro Max,6,512,1399,12,12,12,12,No,No,"1/1.76""",226,6.7,3687,Apple A14 Bionic,572000,Apple,2020
+Apple,iPhone 13,4,128,799,12,12,12,,No,No,"1/1.9""",174,6.1,3227,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13,4,256,899,12,12,12,,No,No,"1/1.9""",174,6.1,3227,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13,4,512,1099,12,12,12,,No,No,"1/1.9""",174,6.1,3227,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Mini,4,128,699,12,12,12,,No,No,"1/1.9""",141,5.4,2438,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Mini,4,256,799,12,12,12,,No,No,"1/1.9""",141,5.4,2438,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Mini,4,512,999,12,12,12,,No,No,"1/1.9""",141,5.4,2438,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro,6,128,999,12,12,12,12,No,No,"1/1.9""",204,6.1,3095,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro,6,256,1099,12,12,12,12,No,No,"1/1.9""",204,6.1,3095,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro,6,512,1299,12,12,12,12,No,No,"1/1.9""",204,6.1,3095,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro,6,1024,1499,12,12,12,12,No,No,"1/1.9""",204,6.1,3095,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro Max,6,128,1099,12,12,12,12,No,No,"1/1.9""",238,6.7,4352,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro Max,6,256,1199,12,12,12,12,No,No,"1/1.9""",238,6.7,4352,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro Max,6,512,1399,12,12,12,12,No,No,"1/1.9""",238,6.7,4352,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 13 Pro Max,6,1024,1599,12,12,12,12,No,No,"1/1.9""",238,6.7,4352,Apple A15 Bionic,730000,Apple,2021
+Apple,iPhone 14,6,128,799,12,12,12,,No,No,"1/1.9""",172,6.1,3279,Apple A15 Bionic,800000,Apple,2022
+Apple,iPhone 14,6,256,899,12,12,12,,No,No,"1/1.9""",172,6.1,3279,Apple A15 Bionic,800000,Apple,2022
+Apple,iPhone 14,6,512,1099,12,12,12,,No,No,"1/1.9""",172,6.1,3279,Apple A15 Bionic,800000,Apple,2022
+Apple,iPhone 14 Plus,6,128,899,12,12,12,,No,No,"1/1.9""",203,6.7,4325,Apple A15 Bionic,800000,Apple,2022
+Apple,iPhone 14 Plus,6,256,999,12,12,12,,No,No,"1/1.9""",203,6.7,4325,Apple A15 Bionic,800000,Apple,2022
+Apple,iPhone 14 Plus,6,512,1199,12,12,12,,No,No,"1/1.9""",203,6.7,4325,Apple A15 Bionic,800000,Apple,2022
+Apple,iPhone 14 Pro,6,128,999,48,12,12,12,No,No,"1/1.28""",206,6.1,3200,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro,6,256,1099,48,12,12,12,No,No,"1/1.28""",206,6.1,3200,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro,6,512,1299,48,12,12,12,No,No,"1/1.28""",206,6.1,3200,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro,6,1024,1499,48,12,12,12,No,No,"1/1.28""",206,6.1,3200,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro Max,6,128,1099,48,12,12,12,No,No,"1/1.28""",240,6.7,4323,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro Max,6,256,1199,48,12,12,12,No,No,"1/1.28""",240,6.7,4323,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro Max,6,512,1399,48,12,12,12,No,No,"1/1.28""",240,6.7,4323,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 14 Pro Max,6,1024,1599,48,12,12,12,No,No,"1/1.28""",240,6.7,4323,Apple A16 Bionic,1050000,Apple,2022
+Apple,iPhone 15,6,128,799,48,12,12,,No,No,"1/1.56""",171,6.1,3349,Apple A16 Bionic,900000,Apple,2023
+Apple,iPhone 15,6,256,899,48,12,12,,No,No,"1/1.56""",171,6.1,3349,Apple A16 Bionic,900000,Apple,2023
+Apple,iPhone 15,6,512,1099,48,12,12,,No,No,"1/1.56""",171,6.1,3349,Apple A16 Bionic,900000,Apple,2023
+Apple,iPhone 15 Plus,6,128,899,48,12,12,,No,No,"1/1.56""",201,6.7,4383,Apple A16 Bionic,900000,Apple,2023
+Apple,iPhone 15 Plus,6,256,999,48,12,12,,No,No,"1/1.56""",201,6.7,4383,Apple A16 Bionic,900000,Apple,2023
+Apple,iPhone 15 Plus,6,512,1199,48,12,12,,No,No,"1/1.56""",201,6.7,4383,Apple A16 Bionic,900000,Apple,2023
+Apple,iPhone 15 Pro,8,128,999,48,12,12,12,No,No,"1/1.28""",187,6.1,3274,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 15 Pro,8,256,1099,48,12,12,12,No,No,"1/1.28""",187,6.1,3274,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 15 Pro,8,512,1299,48,12,12,12,No,No,"1/1.28""",187,6.1,3274,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 15 Pro,8,1024,1499,48,12,12,12,No,No,"1/1.28""",187,6.1,3274,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 15 Pro Max,8,256,1199,48,12,12,12,No,No,"1/1.28""",221,6.7,4422,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 15 Pro Max,8,512,1399,48,12,12,12,No,No,"1/1.28""",221,6.7,4422,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 15 Pro Max,8,1024,1599,48,12,12,12,No,No,"1/1.28""",221,6.7,4422,Apple A17 Pro,1490000,Apple,2023
+Apple,iPhone 16,8,128,799,48,12,12,,No,No,"1/1.56""",170,6.1,3561,Apple A18,1100000,Apple,2024
+Apple,iPhone 16,8,256,899,48,12,12,,No,No,"1/1.56""",170,6.1,3561,Apple A18,1100000,Apple,2024
+Apple,iPhone 16,8,512,1099,48,12,12,,No,No,"1/1.56""",170,6.1,3561,Apple A18,1100000,Apple,2024
+Apple,iPhone 16 Plus,8,128,899,48,12,12,,No,No,"1/1.56""",203,6.7,4674,Apple A18,1100000,Apple,2024
+Apple,iPhone 16 Plus,8,256,999,48,12,12,,No,No,"1/1.56""",203,6.7,4674,Apple A18,1100000,Apple,2024
+Apple,iPhone 16 Plus,8,512,1199,48,12,12,,No,No,"1/1.56""",203,6.7,4674,Apple A18,1100000,Apple,2024
+Apple,iPhone 16 Pro,8,128,999,48,12,48,12,No,No,"1/1.28""",199,6.3,3582,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone 16 Pro,8,256,1099,48,12,48,12,No,No,"1/1.28""",199,6.3,3582,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone 16 Pro,8,512,1299,48,12,48,12,No,No,"1/1.28""",199,6.3,3582,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone 16 Pro,8,1024,1499,48,12,48,12,No,No,"1/1.28""",199,6.3,3582,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone 16 Pro Max,8,256,1199,48,12,48,12,No,No,"1/1.28""",227,6.9,4685,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone 16 Pro Max,8,512,1399,48,12,48,12,No,No,"1/1.28""",227,6.9,4685,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone 16 Pro Max,8,1024,1599,48,12,48,12,No,No,"1/1.28""",227,6.9,4685,Apple A18 Pro,1650000,Apple,2024
+Apple,iPhone SE (2nd Gen),3,64,399,12,7,,,No,No,"1/2.55""",148,4.7,1821,Apple A13 Bionic,460000,Apple,2020
+Apple,iPhone SE (2nd Gen),3,128,449,12,7,,,No,No,"1/2.55""",148,4.7,1821,Apple A13 Bionic,460000,Apple,2020
+Apple,iPhone SE (2nd Gen),3,256,549,12,7,,,No,No,"1/2.55""",148,4.7,1821,Apple A13 Bionic,460000,Apple,2020
+Apple,iPhone SE (3rd Gen),4,64,429,12,7,,,No,No,"1/2.55""",144,4.7,2018,Apple A15 Bionic,700000,Apple,2022
+Apple,iPhone SE (3rd Gen),4,128,479,12,7,,,No,No,"1/2.55""",144,4.7,2018,Apple A15 Bionic,700000,Apple,2022
+Apple,iPhone SE (3rd Gen),4,256,579,12,7,,,No,No,"1/2.55""",144,4.7,2018,Apple A15 Bionic,700000,Apple,2022
+Samsung,Galaxy S20,12,128,999,12,10,12,64,No,No,"1/1.76""",163,6.2,4000,Snapdragon 865,480000,Qualcomm,2020
+Samsung,Galaxy S20+,12,128,1199,12,10,12,64,No,No,"1/1.76""",186,6.7,4500,Snapdragon 865,480000,Qualcomm,2020
+Samsung,Galaxy S20 Ultra,12,128,1399,108,40,12,48,No,No,"1/1.33""",220,6.9,5000,Snapdragon 865,480000,Qualcomm,2020
+Samsung,Galaxy S20 Ultra,16,512,1599,108,40,12,48,No,No,"1/1.33""",220,6.9,5000,Snapdragon 865,480000,Qualcomm,2020
+Samsung,Galaxy S20 FE,6,128,699,12,32,12,12,No,No,"1/1.76""",190,6.5,4500,Snapdragon 865,430000,Qualcomm,2020
+Samsung,Galaxy S20 FE,8,256,749,12,32,12,12,No,No,"1/1.76""",190,6.5,4500,Snapdragon 865,430000,Qualcomm,2020
+Samsung,Galaxy S21,8,128,799,12,10,12,64,No,No,"1/1.76""",168,6.2,4000,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21,8,256,849,12,10,12,64,No,No,"1/1.76""",168,6.2,4000,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21+,8,128,999,12,10,12,64,No,No,"1/1.76""",199,6.7,4800,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21+,8,256,1049,12,10,12,64,No,No,"1/1.76""",199,6.7,4800,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21 Ultra,12,128,1199,108,40,12,10,No,No,"1/1.33""",227,6.8,5000,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21 Ultra,12,256,1299,108,40,12,10,No,No,"1/1.33""",227,6.8,5000,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21 Ultra,16,512,1599,108,40,12,10,No,No,"1/1.33""",227,6.8,5000,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy S21 FE,6,128,599,12,32,12,8,No,No,"1/1.76""",177,6.4,4500,Snapdragon 8 Gen 1,660000,Qualcomm,2022
+Samsung,Galaxy S21 FE,8,256,649,12,32,12,8,No,No,"1/1.76""",177,6.4,4500,Snapdragon 8 Gen 1,660000,Qualcomm,2022
+Samsung,Galaxy S22,8,128,799,50,10,12,10,No,No,"1/1.76""",167,6.1,3700,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S22,8,256,849,50,10,12,10,No,No,"1/1.76""",167,6.1,3700,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S22+,8,128,999,50,10,12,10,No,No,"1/1.76""",195,6.6,4500,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S22+,8,256,1049,50,10,12,10,No,No,"1/1.76""",195,6.6,4500,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S22 Ultra,8,128,1199,108,40,12,10,No,No,"1/1.33""",228,6.8,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S22 Ultra,12,256,1299,108,40,12,10,No,No,"1/1.33""",228,6.8,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S22 Ultra,12,512,1499,108,40,12,10,No,No,"1/1.33""",228,6.8,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Samsung,Galaxy S23,8,128,799,50,12,12,10,No,No,"1/1.56""",168,6.1,3900,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23,8,256,859,50,12,12,10,No,No,"1/1.56""",168,6.1,3900,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23+,8,256,999,50,12,12,10,No,No,"1/1.56""",195,6.6,4700,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23+,8,512,1149,50,12,12,10,No,No,"1/1.56""",195,6.6,4700,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23 Ultra,8,256,1199,200,12,12,10,No,No,"1/1.3""",234,6.8,5000,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23 Ultra,12,512,1379,200,12,12,10,No,No,"1/1.3""",234,6.8,5000,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23 Ultra,12,1024,1619,200,12,12,10,No,No,"1/1.3""",234,6.8,5000,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Samsung,Galaxy S23 FE,8,128,599,50,10,12,10,No,No,"1/1.56""",187,6.4,4500,Snapdragon 8 Gen 2,820000,Qualcomm,2023
+Samsung,Galaxy S23 FE,8,256,649,50,10,12,10,No,No,"1/1.56""",187,6.4,4500,Snapdragon 8 Gen 2,820000,Qualcomm,2023
+Samsung,Galaxy S24,8,128,799,50,12,12,10,No,No,"1/2""",167,6.2,4000,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Samsung,Galaxy S24,8,256,859,50,12,12,10,No,No,"1/2""",167,6.2,4000,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Samsung,Galaxy S24+,12,256,999,50,12,12,10,No,No,"1/2""",196,6.7,4900,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Samsung,Galaxy S24+,12,512,1119,50,12,12,10,No,No,"1/2""",196,6.7,4900,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Samsung,Galaxy S24 Ultra,12,256,1299,200,12,12,10,No,No,"1/1.3""",232,6.8,5000,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Samsung,Galaxy S24 Ultra,12,512,1419,200,12,12,10,No,No,"1/1.3""",232,6.8,5000,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Samsung,Galaxy S24 Ultra,12,1024,1659,200,12,12,10,No,No,"1/1.3""",232,6.8,5000,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Samsung,Galaxy S24 FE,8,128,649,50,10,12,8,No,No,"1/2""",213,6.7,4700,Exynos 2500,960000,Samsung Exynos,2024
+Samsung,Galaxy S24 FE,8,256,709,50,10,12,8,No,No,"1/2""",213,6.7,4700,Exynos 2500,960000,Samsung Exynos,2024
+Samsung,Galaxy S25,12,128,799,50,12,12,10,No,No,"1/2""",162,6.2,4000,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy S25,12,256,859,50,12,12,10,No,No,"1/2""",162,6.2,4000,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy S25+,12,256,999,50,12,12,10,No,No,"1/2""",190,6.7,4900,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy S25+,12,512,1119,50,12,12,10,No,No,"1/2""",190,6.7,4900,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy S25 Ultra,12,256,1299,200,12,12,10,No,No,"1/1.3""",218,6.9,5000,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy S25 Ultra,12,512,1419,200,12,12,10,No,No,"1/1.3""",218,6.9,5000,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy S25 Ultra,12,1024,1659,200,12,12,10,No,No,"1/1.3""",218,6.9,5000,Snapdragon 8 Elite,2400000,Qualcomm,2025
+Samsung,Galaxy A51,4,128,399,48,32,12,,No,No,"1/2""",172,6.5,4000,Exynos 9611,210000,Samsung Exynos,2020
+Samsung,Galaxy A51,6,128,429,48,32,12,,No,No,"1/2""",172,6.5,4000,Exynos 9611,210000,Samsung Exynos,2020
+Samsung,Galaxy A71,6,128,449,64,32,12,,No,No,"1/1.72""",179,6.7,4500,Snapdragon 730,230000,Qualcomm,2020
+Samsung,Galaxy A71,8,128,499,64,32,12,,No,No,"1/1.72""",179,6.7,4500,Snapdragon 730,230000,Qualcomm,2020
+Samsung,Galaxy A52,4,128,349,64,32,12,,No,No,"1/1.7""",189,6.5,4500,Snapdragon 720G,380000,Qualcomm,2021
+Samsung,Galaxy A52,6,128,399,64,32,12,,No,No,"1/1.7""",189,6.5,4500,Snapdragon 720G,380000,Qualcomm,2021
+Samsung,Galaxy A52,8,256,449,64,32,12,,No,No,"1/1.7""",189,6.5,4500,Snapdragon 720G,380000,Qualcomm,2021
+Samsung,Galaxy A52s 5G,6,128,399,64,32,12,,No,No,"1/1.7""",189,6.5,4500,Snapdragon 778G,490000,Qualcomm,2021
+Samsung,Galaxy A52s 5G,8,256,449,64,32,12,,No,No,"1/1.7""",189,6.5,4500,Snapdragon 778G,490000,Qualcomm,2021
+Samsung,Galaxy A72,6,128,449,64,32,12,5,No,No,"1/1.7""",203,6.7,5000,Snapdragon 720G,380000,Qualcomm,2021
+Samsung,Galaxy A72,8,256,499,64,32,12,5,No,No,"1/1.7""",203,6.7,5000,Snapdragon 720G,380000,Qualcomm,2021
+Samsung,Galaxy A53 5G,6,128,349,64,32,12,,No,No,"1/1.7""",189,6.5,5000,Exynos 1280,475000,Samsung Exynos,2022
+Samsung,Galaxy A53 5G,8,256,429,64,32,12,,No,No,"1/1.7""",189,6.5,5000,Exynos 1280,475000,Samsung Exynos,2022
+Samsung,Galaxy A73 5G,6,128,449,108,32,12,,No,No,"1/1.52""",181,6.7,5000,Snapdragon 778G,480000,Qualcomm,2022
+Samsung,Galaxy A73 5G,8,256,499,108,32,12,,No,No,"1/1.52""",181,6.7,5000,Snapdragon 778G,480000,Qualcomm,2022
+Samsung,Galaxy A54 5G,6,128,349,50,32,12,,No,No,"1/1.56""",202,6.4,5000,Exynos 1380,545000,Samsung Exynos,2023
+Samsung,Galaxy A54 5G,8,256,429,50,32,12,,No,No,"1/1.56""",202,6.4,5000,Exynos 1380,545000,Samsung Exynos,2023
+Samsung,Galaxy A55 5G,8,128,399,50,32,12,,No,No,"1/1.56""",213,6.6,5000,Exynos 1480,600000,Samsung Exynos,2024
+Samsung,Galaxy A55 5G,8,256,449,50,32,12,,No,No,"1/1.56""",213,6.6,5000,Exynos 1480,600000,Samsung Exynos,2024
+Samsung,Galaxy A55 5G,12,256,499,50,32,12,,No,No,"1/1.56""",213,6.6,5000,Exynos 1480,600000,Samsung Exynos,2024
+Samsung,Galaxy A35 5G,6,128,299,50,13,8,,No,No,"1/1.56""",210,6.6,5000,Exynos 1380,570000,Samsung Exynos,2024
+Samsung,Galaxy A35 5G,8,256,349,50,13,8,,No,No,"1/1.56""",210,6.6,5000,Exynos 1380,570000,Samsung Exynos,2024
+Samsung,Galaxy A25 5G,6,128,249,50,13,8,,No,No,"1/2""",197,6.5,5000,Exynos 1280,420000,Samsung Exynos,2023
+Samsung,Galaxy A25 5G,8,256,299,50,13,8,,No,No,"1/2""",197,6.5,5000,Exynos 1280,420000,Samsung Exynos,2023
+Samsung,Galaxy A15,4,128,169,50,13,5,,No,No,"1/2.76""",199,6.5,5000,MediaTek Helio G99,290000,MediaTek,2024
+Samsung,Galaxy A15,6,128,199,50,13,5,,No,No,"1/2.76""",199,6.5,5000,MediaTek Helio G99,290000,MediaTek,2024
+Samsung,Galaxy A15 5G,4,128,199,50,13,5,,No,No,"1/2.76""",200,6.5,5000,MediaTek Dimensity 6100+,400000,MediaTek,2024
+Samsung,Galaxy A15 5G,6,128,229,50,13,5,,No,No,"1/2.76""",200,6.5,5000,MediaTek Dimensity 6100+,400000,MediaTek,2024
+Samsung,Galaxy A05,4,64,149,50,13,,,No,No,"1/2.76""",193,6.7,5000,Snapdragon 680,220000,Qualcomm,2023
+Samsung,Galaxy A05,4,128,169,50,13,,,No,No,"1/2.76""",193,6.7,5000,Snapdragon 680,220000,Qualcomm,2023
+Samsung,Galaxy A05s,4,64,159,50,13,2,,No,No,"1/2.76""",194,6.7,5000,Snapdragon 680,310000,Qualcomm,2023
+Samsung,Galaxy A05s,4,128,179,50,13,2,,No,No,"1/2.76""",194,6.7,5000,Snapdragon 680,310000,Qualcomm,2023
+Samsung,Galaxy A05s,6,128,199,50,13,2,,No,No,"1/2.76""",194,6.7,5000,Snapdragon 680,310000,Qualcomm,2023
+Samsung,Galaxy Z Fold 2,12,256,1999,12,10,12,12,No,Yes,"1/1.76""",282,7.6,4500,Snapdragon 865,590000,Qualcomm,2020
+Samsung,Galaxy Z Fold 3,12,256,1799,12,10,12,10,No,Yes,"1/1.76""",271,7.6,4400,Snapdragon 888,850000,Qualcomm,2021
+Samsung,Galaxy Z Fold 4,12,256,1799,50,10,12,10,No,Yes,"1/1.57""",263,7.6,4400,Snapdragon 8 Gen 1,1100000,Qualcomm,2022
+Samsung,Galaxy Z Fold 4,12,512,1919,50,10,12,10,No,Yes,"1/1.57""",263,7.6,4400,Snapdragon 8 Gen 1,1100000,Qualcomm,2022
+Samsung,Galaxy Z Fold 5,12,256,1799,50,10,12,10,No,Yes,"1/1.57""",253,7.6,4400,Snapdragon 8 Gen 2,1520000,Qualcomm,2023
+Samsung,Galaxy Z Fold 5,12,512,1919,50,10,12,10,No,Yes,"1/1.57""",253,7.6,4400,Snapdragon 8 Gen 2,1520000,Qualcomm,2023
+Samsung,Galaxy Z Fold 6,12,256,1899,50,10,12,10,No,Yes,"1/1.57""",239,7.6,4400,Snapdragon 8 Gen 3,2000000,Qualcomm,2024
+Samsung,Galaxy Z Fold 6,12,512,2019,50,10,12,10,No,Yes,"1/1.57""",239,7.6,4400,Snapdragon 8 Gen 3,2000000,Qualcomm,2024
+Samsung,Galaxy Z Flip 3,8,128,999,12,10,12,,Yes,No,"1/2.55""",183,6.7,3300,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy Z Flip 3,8,256,1049,12,10,12,,Yes,No,"1/2.55""",183,6.7,3300,Snapdragon 888,720000,Qualcomm,2021
+Samsung,Galaxy Z Flip 4,8,128,999,12,10,12,,Yes,No,"1/2.55""",187,6.7,3700,Snapdragon 8 Gen 1,960000,Qualcomm,2022
+Samsung,Galaxy Z Flip 4,8,256,1059,12,10,12,,Yes,No,"1/2.55""",187,6.7,3700,Snapdragon 8 Gen 1,960000,Qualcomm,2022
+Samsung,Galaxy Z Flip 4,8,512,1119,12,10,12,,Yes,No,"1/2.55""",187,6.7,3700,Snapdragon 8 Gen 1,960000,Qualcomm,2022
+Samsung,Galaxy Z Flip 5,8,256,999,12,10,12,,Yes,No,"1/2.55""",187,6.7,3700,Snapdragon 8 Gen 2,1400000,Qualcomm,2023
+Samsung,Galaxy Z Flip 5,8,512,1059,12,10,12,,Yes,No,"1/2.55""",187,6.7,3700,Snapdragon 8 Gen 2,1400000,Qualcomm,2023
+Samsung,Galaxy Z Flip 6,12,256,1099,50,10,12,,Yes,No,"1/2""",187,6.7,4000,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+Samsung,Galaxy Z Flip 6,12,512,1219,50,10,12,,Yes,No,"1/2""",187,6.7,4000,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+Samsung,Galaxy M31,6,64,229,64,20,8,,No,No,"1/1.72""",192,6.4,6000,Exynos 9611,170000,Samsung Exynos,2020
+Samsung,Galaxy M31,6,128,249,64,20,8,,No,No,"1/1.72""",192,6.4,6000,Exynos 9611,170000,Samsung Exynos,2020
+Samsung,Galaxy M51,6,128,299,64,32,12,,No,No,"1/1.72""",213,6.7,7000,Snapdragon 730G,220000,Qualcomm,2020
+Samsung,Galaxy M51,8,128,329,64,32,12,,No,No,"1/1.72""",213,6.7,7000,Snapdragon 730G,220000,Qualcomm,2020
+Samsung,Galaxy M32,4,64,199,64,20,8,,No,No,"1/1.72""",187,6.4,6000,MediaTek Helio G85,230000,MediaTek,2021
+Samsung,Galaxy M32,6,128,229,64,20,8,,No,No,"1/1.72""",187,6.4,6000,MediaTek Helio G85,230000,MediaTek,2021
+Samsung,Galaxy M52 5G,6,128,299,64,32,12,,No,No,"1/1.72""",173,6.7,5000,Snapdragon 778G,490000,Qualcomm,2021
+Samsung,Galaxy M52 5G,8,128,329,64,32,12,,No,No,"1/1.72""",173,6.7,5000,Snapdragon 778G,490000,Qualcomm,2021
+Samsung,Galaxy M53 5G,6,128,299,108,32,8,,No,No,"1/1.52""",176,6.7,5000,MediaTek Dimensity 900,480000,MediaTek,2022
+Samsung,Galaxy M53 5G,8,256,349,108,32,8,,No,No,"1/1.52""",176,6.7,5000,MediaTek Dimensity 900,480000,MediaTek,2022
+Samsung,Galaxy M54 5G,8,128,329,108,32,8,,No,No,"1/1.52""",180,6.7,6000,Exynos 1380,545000,Samsung Exynos,2023
+Samsung,Galaxy M54 5G,8,256,369,108,32,8,,No,No,"1/1.52""",180,6.7,6000,Exynos 1380,545000,Samsung Exynos,2023
+Xiaomi,Mi 10,8,128,749,108,20,13,8,No,No,"1/1.33""",208,6.67,4780,Snapdragon 865,550000,Qualcomm,2020
+Xiaomi,Mi 10,8,256,799,108,20,13,8,No,No,"1/1.33""",208,6.67,4780,Snapdragon 865,550000,Qualcomm,2020
+Xiaomi,Mi 10,12,256,849,108,20,13,8,No,No,"1/1.33""",208,6.67,4780,Snapdragon 865,550000,Qualcomm,2020
+Xiaomi,Mi 10 Pro,8,256,999,108,20,20,12,No,No,"1/1.33""",208,6.67,4500,Snapdragon 865,550000,Qualcomm,2020
+Xiaomi,Mi 10 Pro,12,256,1049,108,20,20,12,No,No,"1/1.33""",208,6.67,4500,Snapdragon 865,550000,Qualcomm,2020
+Xiaomi,Mi 10 Pro,12,512,1099,108,20,20,12,No,No,"1/1.33""",208,6.67,4500,Snapdragon 865,550000,Qualcomm,2020
+Xiaomi,Mi 10 Ultra,8,128,849,48,20,20,12,No,No,"1/2""",221,6.67,4500,Snapdragon 865,590000,Qualcomm,2020
+Xiaomi,Mi 10 Ultra,8,256,899,48,20,20,12,No,No,"1/2""",221,6.67,4500,Snapdragon 865,590000,Qualcomm,2020
+Xiaomi,Mi 10 Ultra,16,512,1099,48,20,20,12,No,No,"1/2""",221,6.67,4500,Snapdragon 865,590000,Qualcomm,2020
+Xiaomi,Mi 11,8,128,649,108,20,13,,No,No,"1/1.33""",196,6.81,4600,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11,8,256,699,108,20,13,,No,No,"1/1.33""",196,6.81,4600,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11,12,256,749,108,20,13,,No,No,"1/1.33""",196,6.81,4600,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11 Pro,8,128,749,108,20,13,8,No,No,"1/1.33""",208,6.81,5000,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11 Pro,12,256,849,108,20,13,8,No,No,"1/1.33""",208,6.81,5000,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11 Ultra,8,256,999,50,20,48,5,No,No,"1/1.12""",234,6.81,5000,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11 Ultra,12,256,1049,50,20,48,5,No,No,"1/1.12""",234,6.81,5000,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Mi 11 Ultra,12,512,1149,50,20,48,5,No,No,"1/1.12""",234,6.81,5000,Snapdragon 888,730000,Qualcomm,2021
+Xiaomi,Xiaomi 12,8,128,699,50,32,13,50,No,No,"1/1.28""",179,6.28,4500,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Xiaomi,Xiaomi 12,8,256,749,50,32,13,50,No,No,"1/1.28""",179,6.28,4500,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Xiaomi,Xiaomi 12,12,256,799,50,32,13,50,No,No,"1/1.28""",179,6.28,4500,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Xiaomi,Xiaomi 12 Pro,8,256,899,50,32,50,50,No,No,"1/1.28""",204,6.73,4600,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Xiaomi,Xiaomi 12 Pro,12,256,949,50,32,50,50,No,No,"1/1.28""",204,6.73,4600,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Xiaomi,Xiaomi 12 Pro,12,256,999,50,32,50,50,No,No,"1/1.28""",204,6.73,4600,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Xiaomi,Xiaomi 12S Ultra,8,256,999,50,32,48,50,No,No,"1""",225,6.73,4860,Snapdragon 8+ Gen 1,1050000,Qualcomm,2022
+Xiaomi,Xiaomi 12S Ultra,12,256,1099,50,32,48,50,No,No,"1""",225,6.73,4860,Snapdragon 8+ Gen 1,1050000,Qualcomm,2022
+Xiaomi,Xiaomi 12S Ultra,12,512,1199,50,32,48,50,No,No,"1""",225,6.73,4860,Snapdragon 8+ Gen 1,1050000,Qualcomm,2022
+Xiaomi,Xiaomi 13,8,128,799,54,32,12,75,No,No,"1/1.49""",185,6.36,4500,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+Xiaomi,Xiaomi 13,8,256,849,54,32,12,75,No,No,"1/1.49""",185,6.36,4500,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+Xiaomi,Xiaomi 13,12,256,899,54,32,12,75,No,No,"1/1.49""",185,6.36,4500,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+Xiaomi,Xiaomi 13 Pro,8,256,999,50,32,50,50,No,No,"1""",210,6.73,4820,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+Xiaomi,Xiaomi 13 Pro,12,256,1049,50,32,50,50,No,No,"1""",210,6.73,4820,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+Xiaomi,Xiaomi 13 Pro,12,512,1149,50,32,50,50,No,No,"1""",210,6.73,4820,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+Xiaomi,Xiaomi 13 Ultra,12,256,1099,50,32,50,50,No,No,"1""",227,6.73,5000,Snapdragon 8 Gen 2,1390000,Qualcomm,2023
+Xiaomi,Xiaomi 13 Ultra,12,512,1199,50,32,50,50,No,No,"1""",227,6.73,5000,Snapdragon 8 Gen 2,1390000,Qualcomm,2023
+Xiaomi,Xiaomi 13 Ultra,16,1024,1399,50,32,50,50,No,No,"1""",227,6.73,5000,Snapdragon 8 Gen 2,1390000,Qualcomm,2023
+Xiaomi,Xiaomi 14,12,256,999,50,32,50,50,No,No,"1/1.31""",193,6.36,4610,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Xiaomi,Xiaomi 14,16,512,1149,50,32,50,50,No,No,"1/1.31""",193,6.36,4610,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Xiaomi,Xiaomi 14 Pro,12,256,1099,50,32,50,50,No,No,"1/1.31""",223,6.73,4880,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Xiaomi,Xiaomi 14 Pro,16,512,1249,50,32,50,50,No,No,"1/1.31""",223,6.73,4880,Snapdragon 8 Gen 3,2050000,Qualcomm,2024
+Xiaomi,Xiaomi 14 Ultra,12,256,1299,50,32,50,50,No,No,"1""",229,6.73,5000,Snapdragon 8 Gen 3,2100000,Qualcomm,2024
+Xiaomi,Xiaomi 14 Ultra,16,512,1499,50,32,50,50,No,No,"1""",229,6.73,5000,Snapdragon 8 Gen 3,2100000,Qualcomm,2024
+Xiaomi,Xiaomi 14 Ultra,16,1024,1699,50,32,50,50,No,No,"1""",229,6.73,5000,Snapdragon 8 Gen 3,2100000,Qualcomm,2024
+Xiaomi,Xiaomi 15,12,256,999,50,32,50,50,No,No,"1/1.28""",189,6.36,5240,Snapdragon 8 Elite,2700000,Qualcomm,2025
+Xiaomi,Xiaomi 15,16,512,1149,50,32,50,50,No,No,"1/1.28""",189,6.36,5240,Snapdragon 8 Elite,2700000,Qualcomm,2025
+Xiaomi,Xiaomi 15 Pro,12,256,1099,50,32,50,50,No,No,"1/1.28""",219,6.73,6100,Snapdragon 8 Elite,2700000,Qualcomm,2025
+Xiaomi,Xiaomi 15 Pro,16,512,1249,50,32,50,50,No,No,"1/1.28""",219,6.73,6100,Snapdragon 8 Elite,2700000,Qualcomm,2025
+Xiaomi,Xiaomi 15 Pro,16,1024,1449,50,32,50,50,No,No,"1/1.28""",219,6.73,6100,Snapdragon 8 Elite,2700000,Qualcomm,2025
+Xiaomi,Redmi Note 9,3,64,199,48,13,8,,No,No,"1/2""",199,6.53,5020,MediaTek Helio G85,190000,MediaTek,2020
+Xiaomi,Redmi Note 9,4,128,229,48,13,8,,No,No,"1/2""",199,6.53,5020,MediaTek Helio G85,190000,MediaTek,2020
+Xiaomi,Redmi Note 9 Pro,6,64,249,64,16,8,,No,No,"1/1.72""",209,6.67,5020,Snapdragon 720G,280000,Qualcomm,2020
+Xiaomi,Redmi Note 9 Pro,6,128,279,64,16,8,,No,No,"1/1.72""",209,6.67,5020,Snapdragon 720G,280000,Qualcomm,2020
+Xiaomi,Redmi Note 10,4,64,179,48,13,8,,No,No,"1/2""",179,6.43,5000,Snapdragon 678,280000,Qualcomm,2021
+Xiaomi,Redmi Note 10,4,128,199,48,13,8,,No,No,"1/2""",179,6.43,5000,Snapdragon 678,280000,Qualcomm,2021
+Xiaomi,Redmi Note 10,6,128,229,48,13,8,,No,No,"1/2""",179,6.43,5000,Snapdragon 678,280000,Qualcomm,2021
+Xiaomi,Redmi Note 10 Pro,6,64,229,108,16,8,5,No,No,"1/1.52""",193,6.67,5020,Snapdragon 732G,350000,Qualcomm,2021
+Xiaomi,Redmi Note 10 Pro,6,128,249,108,16,8,5,No,No,"1/1.52""",193,6.67,5020,Snapdragon 732G,350000,Qualcomm,2021
+Xiaomi,Redmi Note 10 Pro,8,128,279,108,16,8,5,No,No,"1/1.52""",193,6.67,5020,Snapdragon 732G,350000,Qualcomm,2021
+Xiaomi,Redmi Note 11,4,64,179,50,13,8,,No,No,"1/2.76""",179,6.43,5000,Snapdragon 680,250000,Qualcomm,2022
+Xiaomi,Redmi Note 11,4,128,199,50,13,8,,No,No,"1/2.76""",179,6.43,5000,Snapdragon 680,250000,Qualcomm,2022
+Xiaomi,Redmi Note 11,6,128,229,50,13,8,,No,No,"1/2.76""",179,6.43,5000,Snapdragon 680,250000,Qualcomm,2022
+Xiaomi,Redmi Note 11 Pro,6,64,229,108,16,8,,No,No,"1/1.52""",202,6.67,5160,MediaTek Helio G96,370000,MediaTek,2022
+Xiaomi,Redmi Note 11 Pro,6,128,249,108,16,8,,No,No,"1/1.52""",202,6.67,5160,MediaTek Helio G96,370000,MediaTek,2022
+Xiaomi,Redmi Note 11 Pro,8,256,299,108,16,8,,No,No,"1/1.52""",202,6.67,5160,MediaTek Helio G96,370000,MediaTek,2022
+Xiaomi,Redmi Note 12,4,128,199,50,13,8,,No,No,"1/2.76""",183,6.67,5000,Snapdragon 685,340000,Qualcomm,2023
+Xiaomi,Redmi Note 12,6,128,229,50,13,8,,No,No,"1/2.76""",183,6.67,5000,Snapdragon 685,340000,Qualcomm,2023
+Xiaomi,Redmi Note 12,8,256,279,50,13,8,,No,No,"1/2.76""",183,6.67,5000,Snapdragon 685,340000,Qualcomm,2023
+Xiaomi,Redmi Note 12 Pro,6,128,249,50,16,8,,No,No,"1/2""",187,6.67,5000,MediaTek Dimensity 1080,490000,MediaTek,2023
+Xiaomi,Redmi Note 12 Pro,8,256,299,50,16,8,,No,No,"1/2""",187,6.67,5000,MediaTek Dimensity 1080,490000,MediaTek,2023
+Xiaomi,Redmi Note 12 Pro,12,256,349,50,16,8,,No,No,"1/2""",187,6.67,5000,MediaTek Dimensity 1080,490000,MediaTek,2023
+Xiaomi,Redmi Note 13,6,128,179,108,16,8,,No,No,"1/1.52""",174,6.67,5000,MediaTek Helio G99 Ultra,480000,MediaTek,2024
+Xiaomi,Redmi Note 13,8,256,219,108,16,8,,No,No,"1/1.52""",174,6.67,5000,MediaTek Helio G99 Ultra,480000,MediaTek,2024
+Xiaomi,Redmi Note 13,12,256,249,108,16,8,,No,No,"1/1.52""",174,6.67,5000,MediaTek Helio G99 Ultra,480000,MediaTek,2024
+Xiaomi,Redmi Note 13 Pro,8,128,279,200,16,8,,No,No,"1/1.4""",187,6.67,5100,MediaTek Dimensity 7200 Ultra,570000,MediaTek,2024
+Xiaomi,Redmi Note 13 Pro,8,256,299,200,16,8,,No,No,"1/1.4""",187,6.67,5100,MediaTek Dimensity 7200 Ultra,570000,MediaTek,2024
+Xiaomi,Redmi Note 13 Pro,12,512,349,200,16,8,,No,No,"1/1.4""",187,6.67,5100,MediaTek Dimensity 7200 Ultra,570000,MediaTek,2024
+Xiaomi,Redmi 9,3,32,129,13,8,8,,No,No,"1/3.1""",198,6.53,5020,MediaTek Helio G80,130000,MediaTek,2020
+Xiaomi,Redmi 9,4,64,149,13,8,8,,No,No,"1/3.1""",198,6.53,5020,MediaTek Helio G80,130000,MediaTek,2020
+Xiaomi,Redmi 10,4,64,149,50,8,8,,No,No,"1/2.76""",181,6.5,5000,MediaTek Helio G88,230000,MediaTek,2021
+Xiaomi,Redmi 10,4,128,169,50,8,8,,No,No,"1/2.76""",181,6.5,5000,MediaTek Helio G88,230000,MediaTek,2021
+Xiaomi,Redmi 10,6,128,189,50,8,8,,No,No,"1/2.76""",181,6.5,5000,MediaTek Helio G88,230000,MediaTek,2021
+Xiaomi,Redmi 12,4,128,149,108,8,8,,No,No,"1/1.52""",198,6.79,5000,MediaTek Helio G88,280000,MediaTek,2023
+Xiaomi,Redmi 12,8,128,169,108,8,8,,No,No,"1/1.52""",198,6.79,5000,MediaTek Helio G88,280000,MediaTek,2023
+Xiaomi,Redmi 12,8,256,189,108,8,8,,No,No,"1/1.52""",198,6.79,5000,MediaTek Helio G88,280000,MediaTek,2023
+Xiaomi,Redmi 13,6,128,169,108,13,8,,No,No,"1/1.52""",200,6.79,5030,MediaTek Helio G91 Ultra,280000,MediaTek,2024
+Xiaomi,Redmi 13,8,256,199,108,13,8,,No,No,"1/1.52""",200,6.79,5030,MediaTek Helio G91 Ultra,280000,MediaTek,2024
+Xiaomi,Poco X3,6,64,229,64,20,13,,No,No,"1/1.72""",215,6.67,5160,Snapdragon 732G,300000,Qualcomm,2020
+Xiaomi,Poco X3,6,128,249,64,20,13,,No,No,"1/1.72""",215,6.67,5160,Snapdragon 732G,300000,Qualcomm,2020
+Xiaomi,Poco X3,8,128,279,64,20,13,,No,No,"1/1.72""",215,6.67,5160,Snapdragon 732G,300000,Qualcomm,2020
+Xiaomi,Poco X3 Pro,6,128,249,48,20,8,,No,No,"1/2""",215,6.67,5160,Snapdragon 860,510000,Qualcomm,2021
+Xiaomi,Poco X3 Pro,8,256,299,48,20,8,,No,No,"1/2""",215,6.67,5160,Snapdragon 860,510000,Qualcomm,2021
+Xiaomi,Poco X4 Pro,6,128,249,108,16,8,,No,No,"1/1.52""",205,6.67,5000,Snapdragon 695,600000,Qualcomm,2022
+Xiaomi,Poco X4 Pro,8,256,299,108,16,8,,No,No,"1/1.52""",205,6.67,5000,Snapdragon 695,600000,Qualcomm,2022
+Xiaomi,Poco X5 Pro,6,128,299,108,16,8,,No,No,"1/1.52""",181,6.67,5000,Snapdragon 778G,720000,Qualcomm,2023
+Xiaomi,Poco X5 Pro,8,256,349,108,16,8,,No,No,"1/1.52""",181,6.67,5000,Snapdragon 778G,720000,Qualcomm,2023
+Xiaomi,Poco X6 Pro,8,256,349,64,16,8,,No,No,"1/2""",186,6.67,5000,MediaTek Dimensity 8300 Ultra,1470000,MediaTek,2024
+Xiaomi,Poco X6 Pro,12,256,399,64,16,8,,No,No,"1/2""",186,6.67,5000,MediaTek Dimensity 8300 Ultra,1470000,MediaTek,2024
+Xiaomi,Poco X6 Pro,12,512,449,64,16,8,,No,No,"1/2""",186,6.67,5000,MediaTek Dimensity 8300 Ultra,1470000,MediaTek,2024
+Xiaomi,Poco F3,6,128,299,48,20,8,,No,No,"1/2""",196,6.67,4520,Snapdragon 870,720000,Qualcomm,2021
+Xiaomi,Poco F3,8,256,349,48,20,8,,No,No,"1/2""",196,6.67,4520,Snapdragon 870,720000,Qualcomm,2021
+Xiaomi,Poco F4,6,128,349,64,20,8,,No,No,"1/2""",195,6.67,4500,Snapdragon 870,840000,Qualcomm,2022
+Xiaomi,Poco F4,8,256,399,64,20,8,,No,No,"1/2""",195,6.67,4500,Snapdragon 870,840000,Qualcomm,2022
+Xiaomi,Poco F4,12,256,449,64,20,8,,No,No,"1/2""",195,6.67,4500,Snapdragon 870,840000,Qualcomm,2022
+Xiaomi,Poco F5,8,256,399,64,16,8,,No,No,"1/2""",181,6.67,5000,Snapdragon 7+ Gen 2,1200000,Qualcomm,2023
+Xiaomi,Poco F5,12,256,449,64,16,8,,No,No,"1/2""",181,6.67,5000,Snapdragon 7+ Gen 2,1200000,Qualcomm,2023
+Xiaomi,Poco F6,8,256,399,50,20,8,,No,No,"1/1.96""",179,6.67,5000,Snapdragon 8s Gen 3,1900000,Qualcomm,2024
+Xiaomi,Poco F6,12,256,449,50,20,8,,No,No,"1/1.96""",179,6.67,5000,Snapdragon 8s Gen 3,1900000,Qualcomm,2024
+Xiaomi,Poco F6,12,512,499,50,20,8,,No,No,"1/1.96""",179,6.67,5000,Snapdragon 8s Gen 3,1900000,Qualcomm,2024
+Xiaomi,Poco M3,4,64,149,48,8,,,No,No,"1/2""",198,6.53,6000,Snapdragon 662,200000,Qualcomm,2020
+Xiaomi,Poco M3,4,128,169,48,8,,,No,No,"1/2""",198,6.53,6000,Snapdragon 662,200000,Qualcomm,2020
+Xiaomi,Poco M4 Pro,4,64,199,50,16,8,,No,No,"1/2""",179,6.43,5000,MediaTek Helio G96,420000,MediaTek,2022
+Xiaomi,Poco M4 Pro,6,128,229,50,16,8,,No,No,"1/2""",179,6.43,5000,MediaTek Helio G96,420000,MediaTek,2022
+Xiaomi,Poco M4 Pro,8,256,269,50,16,8,,No,No,"1/2""",179,6.43,5000,MediaTek Helio G96,420000,MediaTek,2022
+Xiaomi,Poco M5,4,64,159,50,8,2,,No,No,"1/2.76""",196,6.58,5000,MediaTek Helio G99,290000,MediaTek,2022
+Xiaomi,Poco M5,4,128,179,50,8,2,,No,No,"1/2.76""",196,6.58,5000,MediaTek Helio G99,290000,MediaTek,2022
+Xiaomi,Poco M5,6,128,199,50,8,2,,No,No,"1/2.76""",196,6.58,5000,MediaTek Helio G99,290000,MediaTek,2022
+Xiaomi,Poco M6 Pro,8,128,199,64,16,8,,No,No,"1/2""",179,6.67,5000,MediaTek Helio G99 Ultra,600000,MediaTek,2024
+Xiaomi,Poco M6 Pro,8,256,229,64,16,8,,No,No,"1/2""",179,6.67,5000,MediaTek Helio G99 Ultra,600000,MediaTek,2024
+Xiaomi,Poco M6 Pro,12,256,249,64,16,8,,No,No,"1/2""",179,6.67,5000,MediaTek Helio G99 Ultra,600000,MediaTek,2024
+OPPO,Reno 4,8,128,399,48,32,8,13,No,No,"1/2""",172,6.4,4000,Snapdragon 765G,290000,Qualcomm,2020
+OPPO,Reno 4,8,256,449,48,32,8,13,No,No,"1/2""",172,6.4,4000,Snapdragon 765G,290000,Qualcomm,2020
+OPPO,Reno 4 Pro,8,128,499,48,32,12,13,No,No,"1/1.72""",172,6.5,4000,Snapdragon 765G,290000,Qualcomm,2020
+OPPO,Reno 4 Pro,8,256,549,48,32,12,13,No,No,"1/1.72""",172,6.5,4000,Snapdragon 765G,290000,Qualcomm,2020
+OPPO,Reno 4 Pro,12,256,599,48,32,12,13,No,No,"1/1.72""",172,6.5,4000,Snapdragon 765G,290000,Qualcomm,2020
+OPPO,Reno 5,8,128,399,64,44,8,13,No,No,"1/1.72""",172,6.43,4310,Snapdragon 765G,410000,Qualcomm,2021
+OPPO,Reno 5,8,256,449,64,44,8,13,No,No,"1/1.72""",172,6.43,4310,Snapdragon 765G,410000,Qualcomm,2021
+OPPO,Reno 5 Pro,8,128,449,64,32,8,13,No,No,"1/1.72""",165,6.55,4350,MediaTek Dimensity 1000+,410000,MediaTek,2021
+OPPO,Reno 5 Pro,8,256,499,64,32,8,13,No,No,"1/1.72""",165,6.55,4350,MediaTek Dimensity 1000+,410000,MediaTek,2021
+OPPO,Reno 5 Pro,12,256,549,64,32,8,13,No,No,"1/1.72""",165,6.55,4350,MediaTek Dimensity 1000+,410000,MediaTek,2021
+OPPO,Reno 6,8,128,399,64,32,8,13,No,No,"1/1.72""",182,6.43,4300,MediaTek Dimensity 900,500000,MediaTek,2021
+OPPO,Reno 6,8,256,449,64,32,8,13,No,No,"1/1.72""",182,6.43,4300,MediaTek Dimensity 900,500000,MediaTek,2021
+OPPO,Reno 6 Pro,8,256,549,50,32,16,13,No,No,"1/1.56""",177,6.55,4500,MediaTek Dimensity 1200,740000,MediaTek,2021
+OPPO,Reno 6 Pro,12,256,649,50,32,16,13,No,No,"1/1.56""",177,6.55,4500,MediaTek Dimensity 1200,740000,MediaTek,2021
+OPPO,Reno 7,8,128,349,64,32,8,,No,No,"1/1.72""",173,6.43,4500,Snapdragon 680,490000,Qualcomm,2022
+OPPO,Reno 7,8,256,399,64,32,8,,No,No,"1/1.72""",173,6.43,4500,Snapdragon 680,490000,Qualcomm,2022
+OPPO,Reno 7 Pro,8,256,499,50,32,8,,No,No,"1/1.56""",180,6.55,4500,MediaTek Dimensity 1200,740000,MediaTek,2022
+OPPO,Reno 7 Pro,12,256,549,50,32,8,,No,No,"1/1.56""",180,6.55,4500,MediaTek Dimensity 1200,740000,MediaTek,2022
+OPPO,Reno 8,8,128,379,50,32,8,,No,No,"1/2""",183,6.43,4500,MediaTek Dimensity 1300,530000,MediaTek,2022
+OPPO,Reno 8,8,256,429,50,32,8,,No,No,"1/2""",183,6.43,4500,MediaTek Dimensity 1300,530000,MediaTek,2022
+OPPO,Reno 8 Pro,8,256,499,50,32,8,5,No,No,"1/1.56""",183,6.7,4500,MediaTek Dimensity 8100,740000,MediaTek,2022
+OPPO,Reno 8 Pro,12,256,549,50,32,8,5,No,No,"1/1.56""",183,6.7,4500,MediaTek Dimensity 8100,740000,MediaTek,2022
+OPPO,Reno 9,8,128,399,50,32,8,13,No,No,"1/2""",183,6.7,4500,Snapdragon 778G,600000,Qualcomm,2023
+OPPO,Reno 9,8,256,449,50,32,8,13,No,No,"1/2""",183,6.7,4500,Snapdragon 778G,600000,Qualcomm,2023
+OPPO,Reno 9,12,256,499,50,32,8,13,No,No,"1/2""",183,6.7,4500,Snapdragon 778G,600000,Qualcomm,2023
+OPPO,Reno 9 Pro,8,256,499,50,32,8,13,No,No,"1/1.56""",183,6.7,4600,Snapdragon 8+ Gen 1,850000,Qualcomm,2023
+OPPO,Reno 9 Pro,12,256,549,50,32,8,13,No,No,"1/1.56""",183,6.7,4600,Snapdragon 8+ Gen 1,850000,Qualcomm,2023
+OPPO,Reno 9 Pro,12,512,599,50,32,8,13,No,No,"1/1.56""",183,6.7,4600,Snapdragon 8+ Gen 1,850000,Qualcomm,2023
+OPPO,Reno 10,8,128,449,64,32,8,32,No,No,"1/1.72""",185,6.7,5000,Snapdragon 778G,680000,Qualcomm,2023
+OPPO,Reno 10,8,256,499,64,32,8,32,No,No,"1/1.72""",185,6.7,5000,Snapdragon 778G,680000,Qualcomm,2023
+OPPO,Reno 10 Pro,12,256,549,50,32,8,32,No,No,"1/1.56""",185,6.7,4600,Snapdragon 8+ Gen 1,870000,Qualcomm,2023
+OPPO,Reno 10 Pro,16,256,649,50,32,8,32,No,No,"1/1.56""",185,6.7,4600,Snapdragon 8+ Gen 1,870000,Qualcomm,2023
+OPPO,Reno 12,8,256,499,50,32,8,5,No,No,"1/2""",180,6.7,5000,MediaTek Dimensity 7300,900000,MediaTek,2024
+OPPO,Reno 12,12,256,549,50,32,8,5,No,No,"1/2""",180,6.7,5000,MediaTek Dimensity 7300,900000,MediaTek,2024
+OPPO,Reno 12 Pro,12,256,599,50,32,8,5,No,No,"1/1.56""",180,6.7,5000,MediaTek Dimensity 9200,1200000,MediaTek,2024
+OPPO,Reno 12 Pro,16,512,699,50,32,8,5,No,No,"1/1.56""",180,6.7,5000,MediaTek Dimensity 9200,1200000,MediaTek,2024
+OPPO,Find X3,8,128,599,50,32,50,13,No,No,"1/1.56""",193,6.7,4500,Snapdragon 870,730000,Qualcomm,2021
+OPPO,Find X3,8,256,699,50,32,50,13,No,No,"1/1.56""",193,6.7,4500,Snapdragon 870,730000,Qualcomm,2021
+OPPO,Find X3 Pro,8,256,999,50,32,50,13,No,No,"1/1.56""",193,6.7,4500,Snapdragon 888,730000,Qualcomm,2021
+OPPO,Find X3 Pro,12,256,1099,50,32,50,13,No,No,"1/1.56""",193,6.7,4500,Snapdragon 888,730000,Qualcomm,2021
+OPPO,Find X5,8,256,799,50,32,13,13,No,No,"1/1.56""",196,6.55,4800,Snapdragon 888,900000,Qualcomm,2022
+OPPO,Find X5 Pro,12,256,1149,50,32,13,13,No,No,"1/1.56""",218,6.7,5000,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+OPPO,Find X6,12,256,899,50,32,48,12,No,No,"1""",207,6.74,4800,Snapdragon 8 Gen 2,1150000,Qualcomm,2023
+OPPO,Find X6,12,512,999,50,32,48,12,No,No,"1""",207,6.74,4800,Snapdragon 8 Gen 2,1150000,Qualcomm,2023
+OPPO,Find X6 Pro,12,256,999,50,32,48,12,No,No,"1""",218,6.82,5000,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+OPPO,Find X6 Pro,16,512,1149,50,32,48,12,No,No,"1""",218,6.82,5000,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+OPPO,Find X7,12,256,799,50,32,48,50,No,No,"1""",207,6.74,5000,MediaTek Dimensity 9300,1530000,MediaTek,2024
+OPPO,Find X7,16,512,899,50,32,48,50,No,No,"1""",207,6.74,5000,MediaTek Dimensity 9300,1530000,MediaTek,2024
+OPPO,Find X7 Ultra,12,256,1099,50,32,48,50,No,No,"1""",221,6.82,5000,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+OPPO,Find X7 Ultra,16,512,1249,50,32,48,50,No,No,"1""",221,6.82,5000,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+OPPO,A74,6,128,279,48,16,8,,No,No,"1/2""",175,6.43,5000,Snapdragon 662,340000,Qualcomm,2021
+OPPO,A74,8,128,309,48,16,8,,No,No,"1/2""",175,6.43,5000,Snapdragon 662,340000,Qualcomm,2021
+OPPO,A94,8,128,349,48,32,8,,No,No,"1/2""",172,6.43,4310,MediaTek Helio P95,480000,MediaTek,2021
+OPPO,A94,8,256,399,48,32,8,,No,No,"1/2""",172,6.43,4310,MediaTek Helio P95,480000,MediaTek,2021
+OPPO,A96,8,128,299,50,16,2,,No,No,"1/2.76""",191,6.59,5000,Snapdragon 680,380000,Qualcomm,2022
+OPPO,A96,8,256,329,50,16,2,,No,No,"1/2.76""",191,6.59,5000,Snapdragon 680,380000,Qualcomm,2022
+OPPO,A78,8,128,279,50,8,2,,No,No,"1/2.76""",186,6.56,5000,Snapdragon 695,480000,Qualcomm,2023
+OPPO,A78,8,256,309,50,8,2,,No,No,"1/2.76""",186,6.56,5000,Snapdragon 695,480000,Qualcomm,2023
+OPPO,A58,6,128,229,64,16,2,,No,No,"1/2""",182,6.72,5000,MediaTek Helio G85,420000,MediaTek,2023
+OPPO,A58,8,256,269,64,16,2,,No,No,"1/2""",182,6.72,5000,MediaTek Helio G85,420000,MediaTek,2023
+OPPO,A38,4,128,169,50,8,,,No,No,"1/2.76""",186,6.56,5000,MediaTek Helio G85,310000,MediaTek,2023
+OPPO,A38,6,128,199,50,8,,,No,No,"1/2.76""",186,6.56,5000,MediaTek Helio G85,310000,MediaTek,2023
+Realme,Realme 7,6,64,179,48,16,8,,No,No,"1/2""",196,6.5,5000,MediaTek Helio G95,290000,MediaTek,2020
+Realme,Realme 7,6,128,199,48,16,8,,No,No,"1/2""",196,6.5,5000,MediaTek Helio G95,290000,MediaTek,2020
+Realme,Realme 7,8,128,219,48,16,8,,No,No,"1/2""",196,6.5,5000,MediaTek Helio G95,290000,MediaTek,2020
+Realme,Realme 7 Pro,6,128,249,64,32,8,,No,No,"1/1.72""",182,6.4,4500,Snapdragon 720G,310000,Qualcomm,2020
+Realme,Realme 7 Pro,8,128,279,64,32,8,,No,No,"1/1.72""",182,6.4,4500,Snapdragon 720G,310000,Qualcomm,2020
+Realme,Realme 8,4,64,179,64,16,8,,No,No,"1/1.72""",177,6.4,5000,MediaTek Helio G95,350000,MediaTek,2021
+Realme,Realme 8,6,128,199,64,16,8,,No,No,"1/1.72""",177,6.4,5000,MediaTek Helio G95,350000,MediaTek,2021
+Realme,Realme 8,8,128,219,64,16,8,,No,No,"1/1.72""",177,6.4,5000,MediaTek Helio G95,350000,MediaTek,2021
+Realme,Realme 8 Pro,6,128,249,108,16,8,,No,No,"1/1.52""",176,6.4,4500,Snapdragon 720G,240000,Qualcomm,2021
+Realme,Realme 8 Pro,8,128,279,108,16,8,,No,No,"1/1.52""",176,6.4,4500,Snapdragon 720G,240000,Qualcomm,2021
+Realme,Realme 9,4,64,199,108,16,8,,No,No,"1/1.52""",178,6.4,5000,Snapdragon 778G,390000,Qualcomm,2022
+Realme,Realme 9,6,128,229,108,16,8,,No,No,"1/1.52""",178,6.4,5000,Snapdragon 778G,390000,Qualcomm,2022
+Realme,Realme 9,8,128,259,108,16,8,,No,No,"1/1.52""",178,6.4,5000,Snapdragon 778G,390000,Qualcomm,2022
+Realme,Realme 9 Pro,6,128,249,64,16,8,,No,No,"1/1.72""",182,6.6,5000,Snapdragon 695,460000,Qualcomm,2022
+Realme,Realme 9 Pro,8,128,279,64,16,8,,No,No,"1/1.72""",182,6.6,5000,Snapdragon 695,460000,Qualcomm,2022
+Realme,Realme 9 Pro+,6,128,299,50,16,8,,No,No,"1/1.56""",182,6.4,4500,MediaTek Dimensity 920,580000,MediaTek,2022
+Realme,Realme 9 Pro+,8,128,329,50,16,8,,No,No,"1/1.56""",182,6.4,4500,MediaTek Dimensity 920,580000,MediaTek,2022
+Realme,Realme 9 Pro+,8,256,349,50,16,8,,No,No,"1/1.56""",182,6.4,4500,MediaTek Dimensity 920,580000,MediaTek,2022
+Realme,Realme 10,4,64,179,50,16,8,,No,No,"1/2.76""",178,6.4,5000,MediaTek Helio G99,350000,MediaTek,2022
+Realme,Realme 10,6,128,199,50,16,8,,No,No,"1/2.76""",178,6.4,5000,MediaTek Helio G99,350000,MediaTek,2022
+Realme,Realme 10,8,128,219,50,16,8,,No,No,"1/2.76""",178,6.4,5000,MediaTek Helio G99,350000,MediaTek,2022
+Realme,Realme 10 Pro,6,128,249,108,16,8,,No,No,"1/1.52""",191,6.72,5000,Snapdragon 695,480000,Qualcomm,2023
+Realme,Realme 10 Pro,8,128,279,108,16,8,,No,No,"1/1.52""",191,6.72,5000,Snapdragon 695,480000,Qualcomm,2023
+Realme,Realme 10 Pro,8,256,309,108,16,8,,No,No,"1/1.52""",191,6.72,5000,Snapdragon 695,480000,Qualcomm,2023
+Realme,Realme 10 Pro+,6,128,299,50,16,8,40,No,No,"1/1.56""",182,6.7,5000,MediaTek Dimensity 1080,600000,MediaTek,2023
+Realme,Realme 10 Pro+,8,256,349,50,16,8,40,No,No,"1/1.56""",182,6.7,5000,MediaTek Dimensity 1080,600000,MediaTek,2023
+Realme,Realme 10 Pro+,12,256,399,50,16,8,40,No,No,"1/1.56""",182,6.7,5000,MediaTek Dimensity 1080,600000,MediaTek,2023
+Realme,Realme 11,6,128,249,108,32,8,,No,No,"1/1.52""",188,6.72,5000,MediaTek Helio G99,490000,MediaTek,2023
+Realme,Realme 11,8,128,279,108,32,8,,No,No,"1/1.52""",188,6.72,5000,MediaTek Helio G99,490000,MediaTek,2023
+Realme,Realme 11,8,256,299,108,32,8,,No,No,"1/1.52""",188,6.72,5000,MediaTek Helio G99,490000,MediaTek,2023
+Realme,Realme 11 Pro,8,128,349,100,16,8,32,No,No,"1/1.49""",185,6.7,5000,MediaTek Dimensity 7050,680000,MediaTek,2023
+Realme,Realme 11 Pro,8,256,399,100,16,8,32,No,No,"1/1.49""",185,6.7,5000,MediaTek Dimensity 7050,680000,MediaTek,2023
+Realme,Realme 11 Pro,12,256,449,100,16,8,32,No,No,"1/1.49""",185,6.7,5000,MediaTek Dimensity 7050,680000,MediaTek,2023
+Realme,Realme 11 Pro+,8,256,449,200,32,8,32,No,No,"1/1.4""",185,6.7,5000,MediaTek Dimensity 7050,700000,MediaTek,2023
+Realme,Realme 11 Pro+,12,256,499,200,32,8,32,No,No,"1/1.4""",185,6.7,5000,MediaTek Dimensity 7050,700000,MediaTek,2023
+Realme,Realme 11 Pro+,12,512,549,200,32,8,32,No,No,"1/1.4""",185,6.7,5000,MediaTek Dimensity 7050,700000,MediaTek,2023
+Realme,Realme 12,6,128,249,108,16,8,,No,No,"1/1.52""",191,6.72,5000,MediaTek Helio G99,500000,MediaTek,2024
+Realme,Realme 12,8,128,279,108,16,8,,No,No,"1/1.52""",191,6.72,5000,MediaTek Helio G99,500000,MediaTek,2024
+Realme,Realme 12,8,256,309,108,16,8,,No,No,"1/1.52""",191,6.72,5000,MediaTek Helio G99,500000,MediaTek,2024
+Realme,Realme 12 Pro,8,256,349,50,32,8,32,No,No,"1/2""",185,6.7,5000,Snapdragon 6 Gen 1,730000,Qualcomm,2024
+Realme,Realme 12 Pro,8,256,399,50,32,8,32,No,No,"1/2""",185,6.7,5000,Snapdragon 6 Gen 1,730000,Qualcomm,2024
+Realme,Realme 12 Pro,12,256,449,50,32,8,32,No,No,"1/2""",185,6.7,5000,Snapdragon 6 Gen 1,730000,Qualcomm,2024
+Realme,Realme 12 Pro+,8,256,449,50,32,8,32,No,No,"1/1.49""",185,6.7,5000,Snapdragon 7s Gen 2,760000,Qualcomm,2024
+Realme,Realme 12 Pro+,12,256,499,50,32,8,32,No,No,"1/1.49""",185,6.7,5000,Snapdragon 7s Gen 2,760000,Qualcomm,2024
+Realme,Realme 12 Pro+,12,512,549,50,32,8,32,No,No,"1/1.49""",185,6.7,5000,Snapdragon 7s Gen 2,760000,Qualcomm,2024
+Realme,Realme GT,8,128,379,64,16,8,,No,No,"1/1.72""",186,6.43,4500,Snapdragon 888,740000,Qualcomm,2021
+Realme,Realme GT,8,256,429,64,16,8,,No,No,"1/1.72""",186,6.43,4500,Snapdragon 888,740000,Qualcomm,2021
+Realme,Realme GT,12,256,479,64,16,8,,No,No,"1/1.72""",186,6.43,4500,Snapdragon 888,740000,Qualcomm,2021
+Realme,Realme GT 2 Pro,8,128,549,50,32,50,13,No,No,"1/1.56""",199,6.7,5000,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Realme,Realme GT 2 Pro,8,256,599,50,32,50,13,No,No,"1/1.56""",199,6.7,5000,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Realme,Realme GT 2 Pro,12,256,649,50,32,50,13,No,No,"1/1.56""",199,6.7,5000,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+Realme,Realme GT 3,8,128,499,50,16,8,,No,No,"1/2""",199,6.74,4600,Snapdragon 8+ Gen 1,1200000,Qualcomm,2023
+Realme,Realme GT 3,12,256,599,50,16,8,,No,No,"1/2""",199,6.74,4600,Snapdragon 8+ Gen 1,1200000,Qualcomm,2023
+Realme,Realme GT 3,16,256,649,50,16,8,,No,No,"1/2""",199,6.74,4600,Snapdragon 8+ Gen 1,1200000,Qualcomm,2023
+Realme,Realme GT 5 Pro,8,256,599,50,32,50,50,No,No,"1/1.56""",199,6.78,5400,Snapdragon 8 Gen 3,1800000,Qualcomm,2024
+Realme,Realme GT 5 Pro,12,256,699,50,32,50,50,No,No,"1/1.56""",199,6.78,5400,Snapdragon 8 Gen 3,1800000,Qualcomm,2024
+Realme,Realme GT 5 Pro,16,512,799,50,32,50,50,No,No,"1/1.56""",199,6.78,5400,Snapdragon 8 Gen 3,1800000,Qualcomm,2024
+Realme,Realme GT 6,8,256,649,50,32,8,8,No,No,"1/1.95""",199,6.78,5500,Snapdragon 8s Gen 3,2000000,Qualcomm,2024
+Realme,Realme GT 6,12,256,699,50,32,8,8,No,No,"1/1.95""",199,6.78,5500,Snapdragon 8s Gen 3,2000000,Qualcomm,2024
+Realme,Realme GT 6,16,512,799,50,32,8,8,No,No,"1/1.95""",199,6.78,5500,Snapdragon 8s Gen 3,2000000,Qualcomm,2024
+Realme,Narzo 30,4,64,169,48,16,8,,No,No,"1/2""",191,6.5,5000,MediaTek Helio G95,250000,MediaTek,2021
+Realme,Narzo 30,6,64,189,48,16,8,,No,No,"1/2""",191,6.5,5000,MediaTek Helio G95,250000,MediaTek,2021
+Realme,Narzo 30,6,128,199,48,16,8,,No,No,"1/2""",191,6.5,5000,MediaTek Helio G95,250000,MediaTek,2021
+Realme,Narzo 50,4,64,159,50,16,2,,No,No,"1/2.76""",185,6.6,5000,MediaTek Helio G96,280000,MediaTek,2022
+Realme,Narzo 50,4,128,179,50,16,2,,No,No,"1/2.76""",185,6.6,5000,MediaTek Helio G96,280000,MediaTek,2022
+Realme,Narzo 50,6,128,199,50,16,2,,No,No,"1/2.76""",185,6.6,5000,MediaTek Helio G96,280000,MediaTek,2022
+Realme,Narzo 60,6,128,199,64,16,8,,No,No,"1/2""",185,6.43,5000,MediaTek Dimensity 6020,480000,MediaTek,2023
+Realme,Narzo 60,8,128,229,64,16,8,,No,No,"1/2""",185,6.43,5000,MediaTek Dimensity 6020,480000,MediaTek,2023
+Realme,Narzo 60,8,256,249,64,16,8,,No,No,"1/2""",185,6.43,5000,MediaTek Dimensity 6020,480000,MediaTek,2023
+Realme,Narzo 70,6,128,199,50,16,2,,No,No,"1/2.76""",185,6.67,5000,MediaTek Helio G99,500000,MediaTek,2024
+Realme,Narzo 70,8,128,229,50,16,2,,No,No,"1/2.76""",185,6.67,5000,MediaTek Helio G99,500000,MediaTek,2024
+Realme,Narzo 70,8,256,249,50,16,2,,No,No,"1/2.76""",185,6.67,5000,MediaTek Helio G99,500000,MediaTek,2024
+Vivo,V20,8,128,329,64,44,8,,No,No,"1/1.72""",171,6.44,4000,Snapdragon 720G,270000,Qualcomm,2020
+Vivo,V20 Pro,8,128,379,64,44,8,,No,No,"1/1.72""",171,6.44,4000,Snapdragon 765G,270000,Qualcomm,2020
+Vivo,V21,8,128,329,64,44,8,,No,No,"1/1.72""",176,6.44,4000,MediaTek Dimensity 800U,310000,MediaTek,2021
+Vivo,V21,8,256,379,64,44,8,,No,No,"1/1.72""",176,6.44,4000,MediaTek Dimensity 800U,310000,MediaTek,2021
+Vivo,V21 Pro,8,128,399,64,44,8,,No,No,"1/1.72""",176,6.44,4000,MediaTek Dimensity 800U,310000,MediaTek,2021
+Vivo,V21 Pro,8,256,449,64,44,8,,No,No,"1/1.72""",176,6.44,4000,MediaTek Dimensity 800U,310000,MediaTek,2021
+Vivo,V23,8,128,349,64,50,8,,No,No,"1/1.72""",171,6.44,4200,MediaTek Dimensity 920,360000,MediaTek,2022
+Vivo,V23,8,256,399,64,50,8,,No,No,"1/1.72""",171,6.44,4200,MediaTek Dimensity 920,360000,MediaTek,2022
+Vivo,V23,12,256,429,64,50,8,,No,No,"1/1.72""",171,6.44,4200,MediaTek Dimensity 920,360000,MediaTek,2022
+Vivo,V23 Pro,8,128,399,108,50,8,8,No,No,"1/1.52""",186,6.56,4300,MediaTek Dimensity 1200,490000,MediaTek,2022
+Vivo,V23 Pro,8,256,449,108,50,8,8,No,No,"1/1.52""",186,6.56,4300,MediaTek Dimensity 1200,490000,MediaTek,2022
+Vivo,V23 Pro,12,256,499,108,50,8,8,No,No,"1/1.52""",186,6.56,4300,MediaTek Dimensity 1200,490000,MediaTek,2022
+Vivo,V25,8,128,349,64,32,8,,No,No,"1/1.72""",181,6.44,4500,MediaTek Dimensity 900,480000,MediaTek,2022
+Vivo,V25,8,256,399,64,32,8,,No,No,"1/1.72""",181,6.44,4500,MediaTek Dimensity 900,480000,MediaTek,2022
+Vivo,V25,12,256,429,64,32,8,,No,No,"1/1.72""",181,6.44,4500,MediaTek Dimensity 900,480000,MediaTek,2022
+Vivo,V25 Pro,8,256,449,64,32,8,8,No,No,"1/1.72""",190,6.56,4830,MediaTek Dimensity 1300,600000,MediaTek,2022
+Vivo,V25 Pro,12,256,499,64,32,8,8,No,No,"1/1.72""",190,6.56,4830,MediaTek Dimensity 1300,600000,MediaTek,2022
+Vivo,V27,8,128,379,50,50,8,8,No,No,"1/2""",182,6.78,4600,MediaTek Dimensity 7200,680000,MediaTek,2023
+Vivo,V27,8,256,429,50,50,8,8,No,No,"1/2""",182,6.78,4600,MediaTek Dimensity 7200,680000,MediaTek,2023
+Vivo,V27,12,256,479,50,50,8,8,No,No,"1/2""",182,6.78,4600,MediaTek Dimensity 7200,680000,MediaTek,2023
+Vivo,V27 Pro,8,256,449,50,50,8,8,No,No,"1/1.56""",182,6.78,4600,MediaTek Dimensity 7200,800000,MediaTek,2023
+Vivo,V27 Pro,12,256,499,50,50,8,8,No,No,"1/1.56""",182,6.78,4600,MediaTek Dimensity 7200,800000,MediaTek,2023
+Vivo,V27 Pro,12,512,549,50,50,8,8,No,No,"1/1.56""",182,6.78,4600,MediaTek Dimensity 7200,800000,MediaTek,2023
+Vivo,V29,8,128,399,50,50,8,8,No,No,"1/2""",186,6.78,4600,Snapdragon 778G,700000,Qualcomm,2023
+Vivo,V29,8,256,449,50,50,8,8,No,No,"1/2""",186,6.78,4600,Snapdragon 778G,700000,Qualcomm,2023
+Vivo,V29,12,256,499,50,50,8,8,No,No,"1/2""",186,6.78,4600,Snapdragon 778G,700000,Qualcomm,2023
+Vivo,V29 Pro,8,256,449,50,50,8,8,No,No,"1/1.56""",186,6.78,4600,MediaTek Dimensity 8200,820000,MediaTek,2023
+Vivo,V29 Pro,12,256,499,50,50,8,8,No,No,"1/1.56""",186,6.78,4600,MediaTek Dimensity 8200,820000,MediaTek,2023
+Vivo,V29 Pro,12,512,549,50,50,8,8,No,No,"1/1.56""",186,6.78,4600,MediaTek Dimensity 8200,820000,MediaTek,2023
+Vivo,V40,8,256,449,50,50,50,50,No,No,"1/1.56""",190,6.78,5500,Snapdragon 7 Gen 3,900000,Qualcomm,2024
+Vivo,V40,12,256,499,50,50,50,50,No,No,"1/1.56""",190,6.78,5500,Snapdragon 7 Gen 3,900000,Qualcomm,2024
+Vivo,V40,12,512,549,50,50,50,50,No,No,"1/1.56""",190,6.78,5500,Snapdragon 7 Gen 3,900000,Qualcomm,2024
+Vivo,V40 Pro,12,256,549,50,50,50,50,No,No,"1/1.49""",190,6.78,5500,MediaTek Dimensity 9300+,1000000,MediaTek,2024
+Vivo,V40 Pro,12,512,649,50,50,50,50,No,No,"1/1.49""",190,6.78,5500,MediaTek Dimensity 9300+,1000000,MediaTek,2024
+Vivo,X60,8,128,549,48,32,13,8,No,No,"1/1.56""",176,6.56,4300,Snapdragon 870,680000,Qualcomm,2021
+Vivo,X60,12,256,649,48,32,13,8,No,No,"1/1.56""",176,6.56,4300,Snapdragon 870,680000,Qualcomm,2021
+Vivo,X60 Pro,12,256,699,48,32,13,8,No,No,"1/1.56""",176,6.56,4200,Snapdragon 870,680000,Qualcomm,2021
+Vivo,X70,8,128,649,50,32,12,8,No,No,"1/1.31""",179,6.56,4450,MediaTek Dimensity 1200,730000,MediaTek,2021
+Vivo,X70,12,256,749,50,32,12,8,No,No,"1/1.31""",179,6.56,4450,MediaTek Dimensity 1200,730000,MediaTek,2021
+Vivo,X70 Pro+,8,256,799,50,32,48,12,No,No,"1""",210,6.78,4500,Snapdragon 888+,800000,Qualcomm,2021
+Vivo,X70 Pro+,12,256,899,50,32,48,12,No,No,"1""",210,6.78,4500,Snapdragon 888+,800000,Qualcomm,2021
+Vivo,X80,8,256,749,50,32,12,12,No,No,"1/1.49""",199,6.78,4500,MediaTek Dimensity 9000,1000000,MediaTek,2022
+Vivo,X80,12,256,849,50,32,12,12,No,No,"1/1.49""",199,6.78,4500,MediaTek Dimensity 9000,1000000,MediaTek,2022
+Vivo,X80 Pro,12,256,999,50,32,48,50,No,No,"1""",214,6.78,4700,Snapdragon 8 Gen 1,1050000,Qualcomm,2022
+Vivo,X80 Pro,12,512,1099,50,32,48,50,No,No,"1""",214,6.78,4700,Snapdragon 8 Gen 1,1050000,Qualcomm,2022
+Vivo,X90,8,256,799,54,32,12,12,No,No,"1/1.49""",199,6.78,4810,MediaTek Dimensity 9200,1100000,MediaTek,2023
+Vivo,X90,12,256,899,54,32,12,12,No,No,"1/1.49""",199,6.78,4810,MediaTek Dimensity 9200,1100000,MediaTek,2023
+Vivo,X90 Pro+,12,256,1099,50,32,50,50,No,No,"1""",221,6.78,4700,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Vivo,X90 Pro+,16,512,1249,50,32,50,50,No,No,"1""",221,6.78,4700,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Vivo,X100,12,256,849,50,32,50,50,No,No,"1/1.49""",214,6.78,5000,MediaTek Dimensity 9300,1750000,MediaTek,2024
+Vivo,X100,16,256,949,50,32,50,50,No,No,"1/1.49""",214,6.78,5000,MediaTek Dimensity 9300,1750000,MediaTek,2024
+Vivo,X100,16,512,1049,50,32,50,50,No,No,"1/1.49""",214,6.78,5000,MediaTek Dimensity 9300,1750000,MediaTek,2024
+Vivo,X100 Pro,12,256,999,50,32,50,50,No,No,"1""",221,6.78,5400,MediaTek Dimensity 9300,1800000,MediaTek,2024
+Vivo,X100 Pro,16,512,1149,50,32,50,50,No,No,"1""",221,6.78,5400,MediaTek Dimensity 9300,1800000,MediaTek,2024
+Vivo,X200,12,256,849,50,32,50,50,No,No,"1/1.28""",199,6.67,5800,MediaTek Dimensity 9400,2400000,MediaTek,2024
+Vivo,X200,16,512,999,50,32,50,50,No,No,"1/1.28""",199,6.67,5800,MediaTek Dimensity 9400,2400000,MediaTek,2024
+Vivo,X200 Pro,12,256,999,50,32,50,50,No,No,"1""",219,6.78,6000,MediaTek Dimensity 9400,2500000,MediaTek,2024
+Vivo,X200 Pro,16,512,1149,50,32,50,50,No,No,"1""",219,6.78,6000,MediaTek Dimensity 9400,2500000,MediaTek,2024
+Vivo,X200 Pro,16,1024,1299,50,32,50,50,No,No,"1""",219,6.78,6000,MediaTek Dimensity 9400,2500000,MediaTek,2024
+Vivo,Y72,8,128,279,64,16,8,,No,No,"1/2""",184,6.58,5000,MediaTek Dimensity 700,310000,MediaTek,2021
+Vivo,Y76,8,128,279,50,44,8,,No,No,"1/2.76""",175,6.58,4100,MediaTek Dimensity 700,360000,MediaTek,2021
+Vivo,Y76,8,128,299,50,44,8,,No,No,"1/2.76""",175,6.58,4100,MediaTek Dimensity 700,360000,MediaTek,2021
+Vivo,Y55,4,128,199,50,8,2,,No,No,"1/2.76""",186,6.58,5000,MediaTek Helio G96,290000,MediaTek,2022
+Vivo,Y55,6,128,229,50,8,2,,No,No,"1/2.76""",186,6.58,5000,MediaTek Helio G96,290000,MediaTek,2022
+Vivo,Y56,6,128,229,50,16,2,,No,No,"1/2.76""",186,6.58,5000,MediaTek Dimensity 700,380000,MediaTek,2023
+Vivo,Y56,8,128,249,50,16,2,,No,No,"1/2.76""",186,6.58,5000,MediaTek Dimensity 700,380000,MediaTek,2023
+Vivo,Y27,4,128,189,50,8,2,,No,No,"1/2.76""",186,6.64,5000,MediaTek Helio G85,310000,MediaTek,2023
+Vivo,Y27,6,128,219,50,8,2,,No,No,"1/2.76""",186,6.64,5000,MediaTek Helio G85,310000,MediaTek,2023
+Vivo,Y17s,4,64,149,13,8,,,No,No,"1/3.06""",191,6.38,6000,MediaTek Helio G85,200000,MediaTek,2023
+Vivo,Y17s,6,128,169,13,8,,,No,No,"1/3.06""",191,6.38,6000,MediaTek Helio G85,200000,MediaTek,2023
+iQOO,iQOO 3,8,128,449,48,16,13,13,No,No,"1/2""",213,6.44,4440,Snapdragon 865,570000,Qualcomm,2020
+iQOO,iQOO 3,12,256,549,48,16,13,13,No,No,"1/2""",213,6.44,4440,Snapdragon 865,570000,Qualcomm,2020
+iQOO,iQOO 5,8,128,499,50,16,13,13,No,No,"1/2""",213,6.56,4500,Snapdragon 865,580000,Qualcomm,2020
+iQOO,iQOO 5,8,256,549,50,16,13,13,No,No,"1/2""",213,6.56,4500,Snapdragon 865,580000,Qualcomm,2020
+iQOO,iQOO 5,12,256,599,50,16,13,13,No,No,"1/2""",213,6.56,4500,Snapdragon 865,580000,Qualcomm,2020
+iQOO,iQOO 7,8,128,479,48,16,13,13,No,No,"1/2""",196,6.62,4000,Snapdragon 888,730000,Qualcomm,2021
+iQOO,iQOO 7,8,256,519,48,16,13,13,No,No,"1/2""",196,6.62,4000,Snapdragon 888,730000,Qualcomm,2021
+iQOO,iQOO 7,12,256,569,48,16,13,13,No,No,"1/2""",196,6.62,4000,Snapdragon 888,730000,Qualcomm,2021
+iQOO,iQOO 8,8,128,549,50,16,13,13,No,No,"1/2""",196,6.56,4350,Snapdragon 888,850000,Qualcomm,2021
+iQOO,iQOO 8,8,256,599,50,16,13,13,No,No,"1/2""",196,6.56,4350,Snapdragon 888,850000,Qualcomm,2021
+iQOO,iQOO 8,12,256,649,50,16,13,13,No,No,"1/2""",196,6.56,4350,Snapdragon 888,850000,Qualcomm,2021
+iQOO,iQOO 9,8,128,549,50,16,13,13,No,No,"1/2""",206,6.56,4700,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+iQOO,iQOO 9,8,256,599,50,16,13,13,No,No,"1/2""",206,6.56,4700,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+iQOO,iQOO 9,12,256,649,50,16,13,13,No,No,"1/2""",206,6.56,4700,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+iQOO,iQOO 9 Pro,8,256,749,50,16,50,50,No,No,"1/1.56""",206,6.78,4700,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+iQOO,iQOO 9 Pro,12,256,849,50,16,50,50,No,No,"1/1.56""",206,6.78,4700,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+iQOO,iQOO 9 Pro,12,512,949,50,16,50,50,No,No,"1/1.56""",206,6.78,4700,Snapdragon 8 Gen 1,1000000,Qualcomm,2022
+iQOO,iQOO 10,8,128,549,50,16,13,13,No,No,"1/2""",206,6.56,4700,Snapdragon 8+ Gen 1,1050000,Qualcomm,2022
+iQOO,iQOO 10,8,256,599,50,16,13,13,No,No,"1/2""",206,6.56,4700,Snapdragon 8+ Gen 1,1050000,Qualcomm,2022
+iQOO,iQOO 10,12,256,649,50,16,13,13,No,No,"1/2""",206,6.56,4700,Snapdragon 8+ Gen 1,1050000,Qualcomm,2022
+iQOO,iQOO 10 Pro,8,256,749,50,16,50,50,No,No,"1/1.56""",210,6.78,4700,Snapdragon 8+ Gen 1,1100000,Qualcomm,2022
+iQOO,iQOO 10 Pro,12,256,849,50,16,50,50,No,No,"1/1.56""",210,6.78,4700,Snapdragon 8+ Gen 1,1100000,Qualcomm,2022
+iQOO,iQOO 10 Pro,12,512,949,50,16,50,50,No,No,"1/1.56""",210,6.78,4700,Snapdragon 8+ Gen 1,1100000,Qualcomm,2022
+iQOO,iQOO 11,8,256,599,50,16,13,13,No,No,"1/1.56""",205,6.58,5000,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+iQOO,iQOO 11,12,256,649,50,16,13,13,No,No,"1/1.56""",205,6.58,5000,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+iQOO,iQOO 11,16,512,749,50,16,13,13,No,No,"1/1.56""",205,6.58,5000,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+iQOO,iQOO 11 Pro,8,256,699,50,16,50,50,No,No,"1/1.49""",210,6.7,4700,Snapdragon 8 Gen 2,1350000,Qualcomm,2023
+iQOO,iQOO 11 Pro,12,256,799,50,16,50,50,No,No,"1/1.49""",210,6.7,4700,Snapdragon 8 Gen 2,1350000,Qualcomm,2023
+iQOO,iQOO 11 Pro,16,512,899,50,16,50,50,No,No,"1/1.49""",210,6.7,4700,Snapdragon 8 Gen 2,1350000,Qualcomm,2023
+iQOO,iQOO 12,12,256,699,50,16,50,50,No,No,"1/1.49""",213,6.78,5000,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+iQOO,iQOO 12,12,256,749,50,16,50,50,No,No,"1/1.49""",213,6.78,5000,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+iQOO,iQOO 12,16,512,849,50,16,50,50,No,No,"1/1.49""",213,6.78,5000,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+iQOO,iQOO 12 Pro,12,256,849,50,16,50,50,No,No,"1/1.3""",215,6.78,5000,Snapdragon 8 Gen 3,2000000,Qualcomm,2024
+iQOO,iQOO 12 Pro,16,512,949,50,16,50,50,No,No,"1/1.3""",215,6.78,5000,Snapdragon 8 Gen 3,2000000,Qualcomm,2024
+iQOO,iQOO 12 Pro,16,1024,1049,50,16,50,50,No,No,"1/1.3""",215,6.78,5000,Snapdragon 8 Gen 3,2000000,Qualcomm,2024
+iQOO,iQOO Neo 6,8,128,349,64,16,8,,No,No,"1/1.72""",194,6.62,4700,Snapdragon 8 Gen 1,800000,Qualcomm,2022
+iQOO,iQOO Neo 6,8,256,399,64,16,8,,No,No,"1/1.72""",194,6.62,4700,Snapdragon 8 Gen 1,800000,Qualcomm,2022
+iQOO,iQOO Neo 6,12,256,449,64,16,8,,No,No,"1/1.72""",194,6.62,4700,Snapdragon 8 Gen 1,800000,Qualcomm,2022
+iQOO,iQOO Neo 7,8,128,349,64,16,8,,No,No,"1/1.72""",197,6.78,5000,MediaTek Dimensity 9000+,900000,MediaTek,2022
+iQOO,iQOO Neo 7,8,256,399,64,16,8,,No,No,"1/1.72""",197,6.78,5000,MediaTek Dimensity 9000+,900000,MediaTek,2022
+iQOO,iQOO Neo 7,12,256,449,64,16,8,,No,No,"1/1.72""",197,6.78,5000,MediaTek Dimensity 9000+,900000,MediaTek,2022
+iQOO,iQOO Neo 8,8,256,399,50,16,8,,No,No,"1/2""",197,6.78,5000,MediaTek Dimensity 9200+,1050000,MediaTek,2023
+iQOO,iQOO Neo 8,12,256,449,50,16,8,,No,No,"1/2""",197,6.78,5000,MediaTek Dimensity 9200+,1050000,MediaTek,2023
+iQOO,iQOO Neo 8,16,256,499,50,16,8,,No,No,"1/2""",197,6.78,5000,MediaTek Dimensity 9200+,1050000,MediaTek,2023
+iQOO,iQOO Neo 9 Pro,8,128,399,50,16,8,8,No,No,"1/1.56""",197,6.78,4900,Snapdragon 8 Gen 3,1500000,Qualcomm,2024
+iQOO,iQOO Neo 9 Pro,12,256,499,50,16,8,8,No,No,"1/1.56""",197,6.78,4900,Snapdragon 8 Gen 3,1500000,Qualcomm,2024
+iQOO,iQOO Neo 9 Pro,16,256,549,50,16,8,8,No,No,"1/1.56""",197,6.78,4900,Snapdragon 8 Gen 3,1500000,Qualcomm,2024
+iQOO,iQOO Z6,4,128,249,64,16,8,,No,No,"1/1.72""",185,6.44,4400,Snapdragon 778G,490000,Qualcomm,2022
+iQOO,iQOO Z6,6,128,279,64,16,8,,No,No,"1/1.72""",185,6.44,4400,Snapdragon 778G,490000,Qualcomm,2022
+iQOO,iQOO Z6,8,128,309,64,16,8,,No,No,"1/1.72""",185,6.44,4400,Snapdragon 778G,490000,Qualcomm,2022
+iQOO,iQOO Z7,6,128,249,64,16,8,,No,No,"1/2""",185,6.38,4500,MediaTek Dimensity 920,540000,MediaTek,2023
+iQOO,iQOO Z7,8,128,279,64,16,8,,No,No,"1/2""",185,6.38,4500,MediaTek Dimensity 920,540000,MediaTek,2023
+iQOO,iQOO Z7,8,256,299,64,16,8,,No,No,"1/2""",185,6.38,4500,MediaTek Dimensity 920,540000,MediaTek,2023
+iQOO,iQOO Z9,6,128,249,50,16,8,,No,No,"1/2""",190,6.67,5000,MediaTek Dimensity 7200 Ultra,800000,MediaTek,2024
+iQOO,iQOO Z9,8,128,279,50,16,8,,No,No,"1/2""",190,6.67,5000,MediaTek Dimensity 7200 Ultra,800000,MediaTek,2024
+iQOO,iQOO Z9,8,256,309,50,16,8,,No,No,"1/2""",190,6.67,5000,MediaTek Dimensity 7200 Ultra,800000,MediaTek,2024
+iQOO,iQOO Z9,12,256,349,50,16,8,,No,No,"1/2""",190,6.67,5000,MediaTek Dimensity 7200 Ultra,800000,MediaTek,2024
+Huawei,P40,8,128,799,50,32,16,12,No,No,"1/1.56""",175,6.1,3800,Kirin 990 5G,400000,HiSilicon Kirin,2020
+Huawei,P40 Pro,8,256,1049,50,32,12,12,No,No,"1/1.28""",209,6.58,4200,Kirin 990 5G,400000,HiSilicon Kirin,2020
+Huawei,P40 Pro+,8,256,1399,50,32,20,12,No,No,"1/1.28""",226,6.58,4200,Kirin 990 5G,430000,HiSilicon Kirin,2020
+Huawei,P40 Pro+,8,512,1599,50,32,20,12,No,No,"1/1.28""",226,6.58,4200,Kirin 990 5G,430000,HiSilicon Kirin,2020
+Huawei,P50,8,128,649,50,13,13,40,No,No,"1/1.28""",194,6.5,4100,Kirin 9000,450000,HiSilicon Kirin,2021
+Huawei,P50,8,256,699,50,13,13,40,No,No,"1/1.28""",194,6.5,4100,Kirin 9000,450000,HiSilicon Kirin,2021
+Huawei,P50 Pro,8,256,799,50,13,13,40,No,No,"1/1.28""",195,6.6,4360,Kirin 9000,450000,HiSilicon Kirin,2021
+Huawei,P50 Pro,8,512,899,50,13,13,40,No,No,"1/1.28""",195,6.6,4360,Kirin 9000,450000,HiSilicon Kirin,2021
+Huawei,P60,8,128,699,48,13,13,12,No,No,"1/1.32""",200,6.67,4815,Kirin 8000,500000,HiSilicon Kirin,2023
+Huawei,P60,8,256,799,48,13,13,12,No,No,"1/1.32""",200,6.67,4815,Kirin 8000,500000,HiSilicon Kirin,2023
+Huawei,P60 Pro,8,256,899,48,13,13,12,No,No,"1/1.32""",200,6.67,4815,Kirin 8000,530000,HiSilicon Kirin,2023
+Huawei,P60 Pro,12,512,999,48,13,13,12,No,No,"1/1.32""",200,6.67,4815,Kirin 8000,530000,HiSilicon Kirin,2023
+Huawei,Mate 40,8,128,799,50,13,20,8,No,No,"1/1.28""",212,6.5,4200,Kirin 9000,650000,HiSilicon Kirin,2020
+Huawei,Mate 40,8,256,899,50,13,20,8,No,No,"1/1.28""",212,6.5,4200,Kirin 9000,650000,HiSilicon Kirin,2020
+Huawei,Mate 40 Pro,8,128,1049,50,13,20,8,No,No,"1/1.28""",212,6.76,4400,Kirin 9000,650000,HiSilicon Kirin,2020
+Huawei,Mate 40 Pro,8,256,1149,50,13,20,8,No,No,"1/1.28""",212,6.76,4400,Kirin 9000,650000,HiSilicon Kirin,2020
+Huawei,Mate 40 Pro,12,256,1249,50,13,20,8,No,No,"1/1.28""",212,6.76,4400,Kirin 9000,650000,HiSilicon Kirin,2020
+Huawei,Mate 50,8,128,649,50,13,13,12,No,No,"1/1.56""",205,6.7,4460,Snapdragon 8+ Gen 1,490000,HiSilicon Kirin,2022
+Huawei,Mate 50,8,256,749,50,13,13,12,No,No,"1/1.56""",205,6.7,4460,Snapdragon 8+ Gen 1,490000,HiSilicon Kirin,2022
+Huawei,Mate 50 Pro,8,256,849,50,13,13,12,No,No,"1/1.56""",205,6.74,4700,Snapdragon 8+ Gen 1,530000,HiSilicon Kirin,2022
+Huawei,Mate 50 Pro,8,512,999,50,13,13,12,No,No,"1/1.56""",205,6.74,4700,Snapdragon 8+ Gen 1,530000,HiSilicon Kirin,2022
+Huawei,Mate 60,8,256,799,50,13,12,12,No,No,"1/1.56""",205,6.69,4750,Kirin 9000s,800000,HiSilicon Kirin,2023
+Huawei,Mate 60,12,256,899,50,13,12,12,No,No,"1/1.56""",205,6.69,4750,Kirin 9000s,800000,HiSilicon Kirin,2023
+Huawei,Mate 60 Pro,8,256,899,50,13,12,12,No,No,"1/1.4""",225,6.82,5000,Kirin 9000s,850000,HiSilicon Kirin,2023
+Huawei,Mate 60 Pro,12,512,999,50,13,12,12,No,No,"1/1.4""",225,6.82,5000,Kirin 9000s,850000,HiSilicon Kirin,2023
+Huawei,Mate 60 Pro,16,512,1099,50,13,12,12,No,No,"1/1.4""",225,6.82,5000,Kirin 9000s,850000,HiSilicon Kirin,2023
+Huawei,Nova 8,6,128,449,64,32,8,,No,No,"1/1.72""",175,6.57,3800,Kirin 985,400000,HiSilicon Kirin,2021
+Huawei,Nova 8,8,128,499,64,32,8,,No,No,"1/1.72""",175,6.57,3800,Kirin 985,400000,HiSilicon Kirin,2021
+Huawei,Nova 9,8,128,499,50,32,8,,No,No,"1/1.56""",175,6.57,4300,Snapdragon 778G,430000,HiSilicon Kirin,2021
+Huawei,Nova 9,8,256,549,50,32,8,,No,No,"1/1.56""",175,6.57,4300,Snapdragon 778G,430000,HiSilicon Kirin,2021
+Huawei,Nova 10,8,128,449,50,60,8,,No,No,"1/1.56""",168,6.67,4000,Snapdragon 778G,450000,Qualcomm,2022
+Huawei,Nova 10,8,256,499,50,60,8,,No,No,"1/1.56""",168,6.67,4000,Snapdragon 778G,450000,Qualcomm,2022
+Huawei,Nova 11,8,128,449,50,60,8,,No,No,"1/1.56""",168,6.7,4500,Snapdragon 778G,480000,Qualcomm,2023
+Huawei,Nova 11,8,256,499,50,60,8,,No,No,"1/1.56""",168,6.7,4500,Snapdragon 778G,480000,Qualcomm,2023
+Huawei,Nova 11,12,256,549,50,60,8,,No,No,"1/1.56""",168,6.7,4500,Snapdragon 778G,480000,Qualcomm,2023
+Huawei,Nova 12,8,128,449,50,60,8,,No,No,"1/1.56""",168,6.7,4500,Snapdragon 680,600000,Qualcomm,2024
+Huawei,Nova 12,8,256,499,50,60,8,,No,No,"1/1.56""",168,6.7,4500,Snapdragon 680,600000,Qualcomm,2024
+Huawei,Nova 12,12,256,549,50,60,8,,No,No,"1/1.56""",168,6.7,4500,Snapdragon 680,600000,Qualcomm,2024
+Honor,Honor 50,6,128,399,108,32,8,,No,No,"1/1.52""",175,6.57,4300,Snapdragon 778G,530000,Qualcomm,2021
+Honor,Honor 50,8,128,449,108,32,8,,No,No,"1/1.52""",175,6.57,4300,Snapdragon 778G,530000,Qualcomm,2021
+Honor,Honor 50,8,256,499,108,32,8,,No,No,"1/1.52""",175,6.57,4300,Snapdragon 778G,530000,Qualcomm,2021
+Honor,Honor 60,6,128,399,108,50,8,,No,No,"1/1.52""",175,6.67,4800,Snapdragon 778G,680000,Qualcomm,2022
+Honor,Honor 60,8,256,449,108,50,8,,No,No,"1/1.52""",175,6.67,4800,Snapdragon 778G,680000,Qualcomm,2022
+Honor,Honor 60,12,256,499,108,50,8,,No,No,"1/1.52""",175,6.67,4800,Snapdragon 778G,680000,Qualcomm,2022
+Honor,Honor 70,8,128,449,54,50,8,,No,No,"1/1.49""",178,6.67,4800,Snapdragon 778G+,700000,Qualcomm,2022
+Honor,Honor 70,8,256,499,54,50,8,,No,No,"1/1.49""",178,6.67,4800,Snapdragon 778G+,700000,Qualcomm,2022
+Honor,Honor 70,12,256,549,54,50,8,,No,No,"1/1.49""",178,6.67,4800,Snapdragon 778G+,700000,Qualcomm,2022
+Honor,Honor 80,8,128,399,54,16,8,,No,No,"1/1.49""",185,6.67,4800,Snapdragon 783G,870000,Qualcomm,2022
+Honor,Honor 80,8,256,449,54,16,8,,No,No,"1/1.49""",185,6.67,4800,Snapdragon 783G,870000,Qualcomm,2022
+Honor,Honor 80,12,256,499,54,16,8,,No,No,"1/1.49""",185,6.67,4800,Snapdragon 783G,870000,Qualcomm,2022
+Honor,Honor 90,8,128,449,200,50,12,,No,No,"1/1.4""",183,6.78,5000,Snapdragon 7s Gen 2,830000,Qualcomm,2023
+Honor,Honor 90,12,256,499,200,50,12,,No,No,"1/1.4""",183,6.78,5000,Snapdragon 7s Gen 2,830000,Qualcomm,2023
+Honor,Honor 90,16,256,549,200,50,12,,No,No,"1/1.4""",183,6.78,5000,Snapdragon 7s Gen 2,830000,Qualcomm,2023
+Honor,Honor 90 Pro,12,256,549,200,50,12,5,No,No,"1/1.4""",183,6.78,5000,Snapdragon 8+ Gen 1,900000,Qualcomm,2023
+Honor,Honor 90 Pro,16,256,649,200,50,12,5,No,No,"1/1.4""",183,6.78,5000,Snapdragon 8+ Gen 1,900000,Qualcomm,2023
+Honor,Honor 90 Pro,16,512,749,200,50,12,5,No,No,"1/1.4""",183,6.78,5000,Snapdragon 8+ Gen 1,900000,Qualcomm,2023
+Honor,Honor 100,8,256,499,50,50,12,5,No,No,"1/1.56""",183,6.7,5000,Snapdragon 7 Gen 3,1050000,Qualcomm,2024
+Honor,Honor 100,12,256,549,50,50,12,5,No,No,"1/1.56""",183,6.7,5000,Snapdragon 7 Gen 3,1050000,Qualcomm,2024
+Honor,Honor 100,16,256,599,50,50,12,5,No,No,"1/1.56""",183,6.7,5000,Snapdragon 7 Gen 3,1050000,Qualcomm,2024
+Honor,Honor 100 Pro,8,256,649,50,50,12,5,No,No,"1/1.3""",199,6.78,5000,Snapdragon 8 Gen 2,1100000,Qualcomm,2024
+Honor,Honor 100 Pro,12,256,749,50,50,12,5,No,No,"1/1.3""",199,6.78,5000,Snapdragon 8 Gen 2,1100000,Qualcomm,2024
+Honor,Honor 100 Pro,16,512,849,50,50,12,5,No,No,"1/1.3""",199,6.78,5000,Snapdragon 8 Gen 2,1100000,Qualcomm,2024
+Honor,Honor Magic 3,8,128,799,50,13,64,64,No,No,"1/1.28""",228,6.76,4600,Kirin 9000,740000,HiSilicon Kirin,2021
+Honor,Honor Magic 3,8,256,899,50,13,64,64,No,No,"1/1.28""",228,6.76,4600,Kirin 9000,740000,HiSilicon Kirin,2021
+Honor,Honor Magic 3,12,256,999,50,13,64,64,No,No,"1/1.28""",228,6.76,4600,Kirin 9000,740000,HiSilicon Kirin,2021
+Honor,Honor Magic 4,8,128,749,50,12,50,42,No,No,"1/1.28""",200,6.81,4600,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Honor,Honor Magic 4,8,256,849,50,12,50,42,No,No,"1/1.28""",200,6.81,4600,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Honor,Honor Magic 4,12,256,949,50,12,50,42,No,No,"1/1.28""",200,6.81,4600,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Honor,Honor Magic 5,8,256,849,50,12,50,50,No,No,"1/1.12""",218,6.73,5450,Snapdragon 8 Gen 2,1100000,Qualcomm,2023
+Honor,Honor Magic 5,12,256,949,50,12,50,50,No,No,"1/1.12""",218,6.73,5450,Snapdragon 8 Gen 2,1100000,Qualcomm,2023
+Honor,Honor Magic 5,16,512,1099,50,12,50,50,No,No,"1/1.12""",218,6.73,5450,Snapdragon 8 Gen 2,1100000,Qualcomm,2023
+Honor,Honor Magic 5 Pro,8,256,999,50,12,50,50,No,No,"1/1.12""",218,6.81,5100,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Honor,Honor Magic 5 Pro,12,256,1099,50,12,50,50,No,No,"1/1.12""",218,6.81,5100,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Honor,Honor Magic 5 Pro,16,512,1249,50,12,50,50,No,No,"1/1.12""",218,6.81,5100,Snapdragon 8 Gen 2,1200000,Qualcomm,2023
+Honor,Honor Magic 6,12,256,999,50,12,50,50,No,No,"1/1.03""",225,6.8,5600,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Honor,Honor Magic 6,16,256,1099,50,12,50,50,No,No,"1/1.03""",225,6.8,5600,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Honor,Honor Magic 6,16,512,1249,50,12,50,50,No,No,"1/1.03""",225,6.8,5600,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Honor,Honor Magic 6 Pro,12,256,1199,50,12,50,50,No,No,"1/1.03""",229,6.8,5600,Snapdragon 8 Gen 3,1700000,Qualcomm,2024
+Honor,Honor Magic 6 Pro,16,256,1299,50,12,50,50,No,No,"1/1.03""",229,6.8,5600,Snapdragon 8 Gen 3,1700000,Qualcomm,2024
+Honor,Honor Magic 6 Pro,16,1024,1599,50,12,50,50,No,No,"1/1.03""",229,6.8,5600,Snapdragon 8 Gen 3,1700000,Qualcomm,2024
+Honor,Honor Magic V,8,256,1199,54,42,50,42,No,Yes,"1/1.49""",293,7.9,4750,Kirin 9000,900000,HiSilicon Kirin,2022
+Honor,Honor Magic V,12,256,1299,54,42,50,42,No,Yes,"1/1.49""",293,7.9,4750,Kirin 9000,900000,HiSilicon Kirin,2022
+Honor,Honor Magic V2,12,256,1299,50,20,50,50,No,Yes,"1/1.49""",231,7.92,5000,Kirin 9000s,1400000,HiSilicon Kirin,2023
+Honor,Honor Magic V2,16,512,1499,50,20,50,50,No,Yes,"1/1.49""",231,7.92,5000,Kirin 9000s,1400000,HiSilicon Kirin,2023
+Honor,Honor X8,6,128,249,64,16,5,,No,No,"1/2""",179,6.7,4000,Snapdragon 680,270000,Qualcomm,2022
+Honor,Honor X8,8,128,279,64,16,5,,No,No,"1/2""",179,6.7,4000,Snapdragon 680,270000,Qualcomm,2022
+Honor,Honor X9,6,128,279,64,16,8,,No,No,"1/1.72""",188,6.81,4800,Snapdragon 695,380000,Qualcomm,2022
+Honor,Honor X9,8,128,309,64,16,8,,No,No,"1/1.72""",188,6.81,4800,Snapdragon 695,380000,Qualcomm,2022
+Honor,Honor X9,8,256,349,64,16,8,,No,No,"1/1.72""",188,6.81,4800,Snapdragon 695,380000,Qualcomm,2022
+Honor,Honor X9b,8,256,299,108,16,5,,No,No,"1/1.52""",185,6.78,5000,Snapdragon 6 Gen 1,540000,Qualcomm,2024
+Honor,Honor X9b,12,256,349,108,16,5,,No,No,"1/1.52""",185,6.78,5000,Snapdragon 6 Gen 1,540000,Qualcomm,2024
+Honor,Honor X50,8,128,249,108,16,5,,No,No,"1/1.52""",185,6.78,5800,Snapdragon 6 Gen 1,600000,Qualcomm,2024
+Honor,Honor X50,8,256,279,108,16,5,,No,No,"1/1.52""",185,6.78,5800,Snapdragon 6 Gen 1,600000,Qualcomm,2024
+Honor,Honor X50,12,256,299,108,16,5,,No,No,"1/1.52""",185,6.78,5800,Snapdragon 6 Gen 1,600000,Qualcomm,2024
+OnePlus,OnePlus 8,8,128,699,48,16,16,,No,No,"1/2""",180,6.55,4300,Snapdragon 865,580000,Qualcomm,2020
+OnePlus,OnePlus 8,12,256,799,48,16,16,,No,No,"1/2""",180,6.55,4300,Snapdragon 865,580000,Qualcomm,2020
+OnePlus,OnePlus 8 Pro,8,128,899,48,16,48,8,No,No,"1/1.4""",199,6.78,4510,Snapdragon 865,580000,Qualcomm,2020
+OnePlus,OnePlus 8 Pro,12,256,999,48,16,48,8,No,No,"1/1.4""",199,6.78,4510,Snapdragon 865,580000,Qualcomm,2020
+OnePlus,OnePlus 8T,8,128,749,48,16,16,,No,No,"1/2""",188,6.55,4500,Snapdragon 865,590000,Qualcomm,2020
+OnePlus,OnePlus 8T,12,256,849,48,16,16,,No,No,"1/2""",188,6.55,4500,Snapdragon 865,590000,Qualcomm,2020
+OnePlus,OnePlus 9,8,128,729,48,16,50,,No,No,"1/1.56""",183,6.55,4500,Snapdragon 888,730000,Qualcomm,2021
+OnePlus,OnePlus 9,12,256,829,48,16,50,,No,No,"1/1.56""",183,6.55,4500,Snapdragon 888,730000,Qualcomm,2021
+OnePlus,OnePlus 9 Pro,8,128,969,48,16,50,8,No,No,"1/1.43""",197,6.7,4500,Snapdragon 888,730000,Qualcomm,2021
+OnePlus,OnePlus 9 Pro,12,256,1069,48,16,50,8,No,No,"1/1.43""",197,6.7,4500,Snapdragon 888,730000,Qualcomm,2021
+OnePlus,OnePlus 9R,8,128,479,48,16,16,,No,No,"1/2""",189,6.55,4500,Snapdragon 870,580000,Qualcomm,2021
+OnePlus,OnePlus 9R,12,256,529,48,16,16,,No,No,"1/2""",189,6.55,4500,Snapdragon 870,580000,Qualcomm,2021
+OnePlus,OnePlus 10 Pro,8,128,899,48,32,50,8,No,No,"1/1.56""",200,6.7,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+OnePlus,OnePlus 10 Pro,12,256,999,48,32,50,8,No,No,"1/1.56""",200,6.7,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+OnePlus,OnePlus 10T,8,128,649,50,16,8,,No,No,"1/1.56""",204,6.7,4800,Snapdragon 8+ Gen 1,1000000,Qualcomm,2022
+OnePlus,OnePlus 10T,12,256,749,50,16,8,,No,No,"1/1.56""",204,6.7,4800,Snapdragon 8+ Gen 1,1000000,Qualcomm,2022
+OnePlus,OnePlus 10T,16,256,849,50,16,8,,No,No,"1/1.56""",204,6.7,4800,Snapdragon 8+ Gen 1,1000000,Qualcomm,2022
+OnePlus,OnePlus 11,8,128,699,50,16,48,32,No,No,"1/1.56""",205,6.7,5000,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+OnePlus,OnePlus 11,16,256,799,50,16,48,32,No,No,"1/1.56""",205,6.7,5000,Snapdragon 8 Gen 2,1300000,Qualcomm,2023
+OnePlus,OnePlus 11R,8,128,499,50,16,8,,No,No,"1/2""",205,6.74,5000,Snapdragon 8+ Gen 1,900000,Qualcomm,2023
+OnePlus,OnePlus 11R,16,256,599,50,16,8,,No,No,"1/2""",205,6.74,5000,Snapdragon 8+ Gen 1,900000,Qualcomm,2023
+OnePlus,OnePlus 12,12,256,799,50,32,48,64,No,No,"1/1.43""",220,6.82,5400,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+OnePlus,OnePlus 12,16,256,899,50,32,48,64,No,No,"1/1.43""",220,6.82,5400,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+OnePlus,OnePlus 12,16,512,999,50,32,48,64,No,No,"1/1.43""",220,6.82,5400,Snapdragon 8 Gen 3,1900000,Qualcomm,2024
+OnePlus,OnePlus 12R,8,128,499,50,16,8,,No,No,"1/2""",207,6.78,5500,Snapdragon 8 Gen 2,1100000,Qualcomm,2024
+OnePlus,OnePlus 12R,16,256,599,50,16,8,,No,No,"1/2""",207,6.78,5500,Snapdragon 8 Gen 2,1100000,Qualcomm,2024
+OnePlus,OnePlus Nord,8,128,399,48,32,8,,No,No,"1/2""",184,6.44,4115,Snapdragon 765G,480000,Qualcomm,2020
+OnePlus,OnePlus Nord,8,256,469,48,32,8,,No,No,"1/2""",184,6.44,4115,Snapdragon 765G,480000,Qualcomm,2020
+OnePlus,OnePlus Nord,12,256,499,48,32,8,,No,No,"1/2""",184,6.44,4115,Snapdragon 765G,480000,Qualcomm,2020
+OnePlus,OnePlus Nord 2,6,128,329,50,32,8,,No,No,"1/1.56""",189,6.43,4500,MediaTek Dimensity 1200,560000,MediaTek,2021
+OnePlus,OnePlus Nord 2,8,128,399,50,32,8,,No,No,"1/1.56""",189,6.43,4500,MediaTek Dimensity 1200,560000,MediaTek,2021
+OnePlus,OnePlus Nord 2,12,256,499,50,32,8,,No,No,"1/1.56""",189,6.43,4500,MediaTek Dimensity 1200,560000,MediaTek,2021
+OnePlus,OnePlus Nord 2T,8,128,369,50,32,8,,No,No,"1/1.56""",190,6.43,4500,MediaTek Dimensity 1300,620000,MediaTek,2022
+OnePlus,OnePlus Nord 2T,8,256,429,50,32,8,,No,No,"1/1.56""",190,6.43,4500,MediaTek Dimensity 1300,620000,MediaTek,2022
+OnePlus,OnePlus Nord 2T,12,256,499,50,32,8,,No,No,"1/1.56""",190,6.43,4500,MediaTek Dimensity 1300,620000,MediaTek,2022
+OnePlus,OnePlus Nord 3,8,128,479,50,16,8,,No,No,"1/1.56""",193,6.74,5000,MediaTek Dimensity 9000,870000,MediaTek,2023
+OnePlus,OnePlus Nord 3,16,256,549,50,16,8,,No,No,"1/1.56""",193,6.74,5000,MediaTek Dimensity 9000,870000,MediaTek,2023
+OnePlus,OnePlus Nord 4,8,128,499,50,16,8,,No,No,"1/1.56""",191,6.74,5500,Snapdragon 7+ Gen 3,1100000,Qualcomm,2024
+OnePlus,OnePlus Nord 4,12,256,599,50,16,8,,No,No,"1/1.56""",191,6.74,5500,Snapdragon 7+ Gen 3,1100000,Qualcomm,2024
+OnePlus,OnePlus Nord 4,16,256,699,50,16,8,,No,No,"1/1.56""",191,6.74,5500,Snapdragon 7+ Gen 3,1100000,Qualcomm,2024
+OnePlus,OnePlus Nord CE,6,64,279,64,16,8,,No,No,"1/1.72""",170,6.43,4500,Snapdragon 750G,370000,Qualcomm,2021
+OnePlus,OnePlus Nord CE,8,128,329,64,16,8,,No,No,"1/1.72""",170,6.43,4500,Snapdragon 750G,370000,Qualcomm,2021
+OnePlus,OnePlus Nord CE,12,256,399,64,16,8,,No,No,"1/1.72""",170,6.43,4500,Snapdragon 750G,370000,Qualcomm,2021
+OnePlus,OnePlus Nord CE 2,6,128,279,64,16,8,,No,No,"1/1.72""",173,6.43,4500,MediaTek Dimensity 900,490000,MediaTek,2022
+OnePlus,OnePlus Nord CE 2,8,128,329,64,16,8,,No,No,"1/1.72""",173,6.43,4500,MediaTek Dimensity 900,490000,MediaTek,2022
+OnePlus,OnePlus Nord CE 2,12,256,399,64,16,8,,No,No,"1/1.72""",173,6.43,4500,MediaTek Dimensity 900,490000,MediaTek,2022
+OnePlus,OnePlus Nord CE 3,8,128,299,50,16,8,,No,No,"1/2""",176,6.72,5000,Snapdragon 782G,600000,Qualcomm,2023
+OnePlus,OnePlus Nord CE 3,8,256,349,50,16,8,,No,No,"1/2""",176,6.72,5000,Snapdragon 782G,600000,Qualcomm,2023
+Google,Pixel 4a,6,128,349,12,8,,,No,No,"1/2.55""",143,5.81,3140,Snapdragon 730G,320000,Qualcomm,2020
+Google,Pixel 5,8,128,699,12,8,16,,No,No,"1/2.55""",151,6,4080,Snapdragon 765G,480000,Qualcomm,2020
+Google,Pixel 5a,6,128,449,12,8,16,,No,No,"1/2.55""",183,6.34,4680,Snapdragon 765G,480000,Qualcomm,2021
+Google,Pixel 6,8,128,599,50,8,12,,No,No,"1/1.31""",207,6.4,4614,Google Tensor G1,680000,Google Tensor,2021
+Google,Pixel 6 Pro,12,128,899,50,11,12,48,No,No,"1/1.31""",210,6.71,5003,Google Tensor G1,680000,Google Tensor,2021
+Google,Pixel 6 Pro,12,256,999,50,11,12,48,No,No,"1/1.31""",210,6.71,5003,Google Tensor G1,680000,Google Tensor,2021
+Google,Pixel 6 Pro,12,512,1099,50,11,12,48,No,No,"1/1.31""",210,6.71,5003,Google Tensor G1,680000,Google Tensor,2021
+Google,Pixel 6a,6,128,449,12,8,12,,No,No,"1/2.55""",178,6.1,4410,Google Tensor G1,650000,Google Tensor,2022
+Google,Pixel 7,8,128,599,50,10,12,,No,No,"1/1.31""",197,6.3,4355,Google Tensor G2,800000,Google Tensor,2022
+Google,Pixel 7 Pro,12,128,899,50,10,12,48,No,No,"1/1.31""",212,6.71,5000,Google Tensor G2,800000,Google Tensor,2022
+Google,Pixel 7 Pro,12,256,999,50,10,12,48,No,No,"1/1.31""",212,6.71,5000,Google Tensor G2,800000,Google Tensor,2022
+Google,Pixel 7 Pro,12,512,1099,50,10,12,48,No,No,"1/1.31""",212,6.71,5000,Google Tensor G2,800000,Google Tensor,2022
+Google,Pixel 7a,8,128,499,64,13,13,,No,No,"1/2.55""",193,6.1,4385,Google Tensor G2,820000,Google Tensor,2023
+Google,Pixel 8,8,128,699,50,10,12,,No,No,"1/1.31""",187,6.2,4575,Google Tensor G3,1000000,Google Tensor,2023
+Google,Pixel 8 Pro,12,128,999,50,10,12,48,No,No,"1/1.31""",213,6.7,5050,Google Tensor G3,1070000,Google Tensor,2023
+Google,Pixel 8 Pro,12,256,1099,50,10,12,48,No,No,"1/1.31""",213,6.7,5050,Google Tensor G3,1070000,Google Tensor,2023
+Google,Pixel 8 Pro,12,1024,1299,50,10,12,48,No,No,"1/1.31""",213,6.7,5050,Google Tensor G3,1070000,Google Tensor,2023
+Google,Pixel 8a,8,128,499,64,13,13,,No,No,"1/2.55""",188,6.1,4492,Google Tensor G3,1000000,Google Tensor,2024
+Google,Pixel 9,12,128,799,50,10,12,,No,No,"1/1.31""",198,6.3,4700,Google Tensor G4,1400000,Google Tensor,2024
+Google,Pixel 9,12,256,899,50,10,12,,No,No,"1/1.31""",198,6.3,4700,Google Tensor G4,1400000,Google Tensor,2024
+Google,Pixel 9 Pro,16,128,999,50,10,12,48,No,No,"1/1.31""",199,6.3,4700,Google Tensor G4,1500000,Google Tensor,2024
+Google,Pixel 9 Pro,16,256,1099,50,10,12,48,No,No,"1/1.31""",199,6.3,4700,Google Tensor G4,1500000,Google Tensor,2024
+Google,Pixel 9 Pro,16,512,1299,50,10,12,48,No,No,"1/1.31""",199,6.3,4700,Google Tensor G4,1500000,Google Tensor,2024
+Google,Pixel 9 Pro XL,16,128,1099,50,10,12,48,No,No,"1/1.31""",221,6.8,5060,Google Tensor G4,1500000,Google Tensor,2024
+Google,Pixel 9 Pro XL,16,256,1199,50,10,12,48,No,No,"1/1.31""",221,6.8,5060,Google Tensor G4,1500000,Google Tensor,2024
+Google,Pixel 9 Pro XL,16,512,1399,50,10,12,48,No,No,"1/1.31""",221,6.8,5060,Google Tensor G4,1500000,Google Tensor,2024
+Google,Pixel 9 Pro Fold,16,256,1799,50,10,12,10,No,Yes,"1/1.31""",257,8,4650,Google Tensor G4,1400000,Google Tensor,2024
+Google,Pixel Fold,12,256,1799,48,9,10,10,No,Yes,"1/1.31""",283,7.6,4821,Google Tensor G2,1000000,Google Tensor,2023
+Sony,Xperia 1 II,8,256,1199,12,8,12,12,No,No,"1/1.7""",181,6.5,4000,Snapdragon 865,530000,Qualcomm,2020
+Sony,Xperia 5 II,8,128,949,12,8,12,12,No,No,"1/1.7""",163,6.1,4000,Snapdragon 865,530000,Qualcomm,2020
+Sony,Xperia 10 II,4,128,369,12,8,8,8,No,No,"1/2.3""",151,6,3600,Snapdragon 665,280000,Qualcomm,2020
+Sony,Xperia 1 III,12,256,1299,12,8,12,12,No,No,"1/1.7""",186,6.5,4500,Snapdragon 888,720000,Qualcomm,2021
+Sony,Xperia 5 III,8,128,999,12,8,12,12,No,No,"1/1.7""",168,6.1,4500,Snapdragon 888,720000,Qualcomm,2021
+Sony,Xperia 10 III,6,128,499,12,8,8,8,No,No,"1/2.3""",169,6,4500,Snapdragon 690,480000,Qualcomm,2021
+Sony,Xperia 1 IV,12,256,1399,12,12,12,12,No,No,"1/1.7""",185,6.5,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Sony,Xperia 5 IV,8,128,999,12,12,12,12,No,No,"1/1.7""",172,6.1,5000,Snapdragon 8 Gen 1,900000,Qualcomm,2022
+Sony,Xperia 10 IV,6,128,499,12,8,8,,No,No,"1/2.3""",161,6,5000,Snapdragon 695,500000,Qualcomm,2022
+Sony,Xperia 1 V,12,256,1399,52,12,12,12,No,No,"1/1.35""",187,6.5,5000,Snapdragon 8 Gen 2,1080000,Qualcomm,2023
+Sony,Xperia 5 V,8,256,999,52,12,12,12,No,No,"1/1.35""",182,6.1,5000,Snapdragon 8 Gen 2,1080000,Qualcomm,2023
+Sony,Xperia 10 V,6,128,499,48,8,8,,No,No,"1/2.5""",159,6.1,5000,Snapdragon 695,530000,Qualcomm,2023
+Sony,Xperia 1 VI,12,256,1299,52,12,12,12,No,No,"1/1.35""",192,6.5,5000,Snapdragon 8 Gen 3,1600000,Qualcomm,2024
+Sony,Xperia 10 VI,6,128,449,48,8,8,,No,No,"1/2.5""",164,6.1,5000,Snapdragon 6 Gen 1,620000,Qualcomm,2024
